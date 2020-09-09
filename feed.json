@@ -7,6 +7,324 @@
 	"items": [
 		
 			{
+				"id": "http://maique.micro.blog/2020/09/09/new-word-i.html",
+				
+				"content_html": "<p>New word I learnt today: pulchritudinous.</p>\n\n<p>I already know I won&rsquo;t remember it this afternoon.</p>\n",
+				"content_text": "New word I learnt today: pulchritudinous. \n\nI already know I won't remember it this afternoon. \n",
+				"date_published": "2020-09-09T10:30:20+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/09/new-word-i.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/09/what-getting-tinymoviestar.html",
+				
+				"content_html": "<p>What getting tinyMovieStar to sleep looks like&hellip; There’s a fair amount of back and forth involved.</p>\n\n<p><img src=\"uploads/2020/885509b43d.jpg\" width=\"600\" height=\"1299\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "What getting tinyMovieStar to sleep looks like... There’s a fair amount of back and forth involved. \n\n<img src=\"uploads/2020/885509b43d.jpg\" width=\"600\" height=\"1299\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-09T08:29:10+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/09/what-getting-tinymoviestar.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/09/dona-ana-the.html",
+				
+				"content_html": "<p>Dona Ana. The one I went to 40 years ago. Looks a little crowded, but still manageable.</p>\n\n<p><img src=\"uploads/2020/ab24cf8922.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Dona Ana. The one I went to 40 years ago. Looks a little crowded, but still manageable. \n\n<img src=\"uploads/2020/ab24cf8922.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-09T08:27:12+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/09/dona-ana-the.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/08/all-the-social.html",
+				
+				"content_html": "<p>Lagos, Day One</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/9c1506a9b6.jpg\" alt=\"\" /></p>\n\n<p>We made it. Took us a bit longer than it would with no baby but, on the other hand, we now know ALL the service areas on the highway. All.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/f5088cb7b2.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/c923326c29.jpg\" alt=\"\" /></p>\n\n<p>Beautiful weather, as usual around here, and a lot more tourists than expected.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/32ac7e1fc0.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/52d0e48380.jpg\" alt=\"\" /></p>\n\n<p>Beaches not crowded. Nice.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/7c6b99b148.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Lagos, Day One\n\n![](https://micro.maiquemadeira.com/uploads/2020/9c1506a9b6.jpg)\n\nWe made it. Took us a bit longer than it would with no baby but, on the other hand, we now know ALL the service areas on the highway. All. \n\n![](https://micro.maiquemadeira.com/uploads/2020/f5088cb7b2.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/c923326c29.jpg)\n\nBeautiful weather, as usual around here, and a lot more tourists than expected.\n\n![](https://micro.maiquemadeira.com/uploads/2020/32ac7e1fc0.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/52d0e48380.jpg)\n\nBeaches not crowded. Nice. \n\n![](https://micro.maiquemadeira.com/uploads/2020/7c6b99b148.jpg)\n",
+				"date_published": "2020-09-08T21:29:19+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/08/all-the-social.html",
+				"tags": ["photography","travel"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/08/lagos-one.html",
+				
+				"content_html": "<p>Lagos, CR7.</p>\n\n<p>Couldn’t help it, <a href=\"https://micro.blog/ajennische\">@ajennische</a>, the first photo from Lagos&hellip;</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/195900593d.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Lagos, CR7. \n\nCouldn’t help it, [@ajennische](https://micro.blog/ajennische), the first photo from Lagos...\n\n![](https://micro.maiquemadeira.com/uploads/2020/195900593d.jpg)\n",
+				"date_published": "2020-09-08T21:14:17+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/08/lagos-one.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/08/up-next-on.html",
+				
+				"content_html": "<p>Up. Next on the list: coffee.</p>\n\n<p>After that, grab an electric motorcycle, ride to the other side of town, grab the car, come back and pick up the girls, and be on our merry way. The south awaits.</p>\n",
+				"content_text": "Up. Next on the list: coffee. \n\nAfter that, grab an electric motorcycle, ride to the other side of town, grab the car, come back and pick up the girls, and be on our merry way. The south awaits. \n",
+				"date_published": "2020-09-08T08:47:00+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/08/up-next-on.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/07/tomorrow-we-have.html",
+				
+				"content_html": "<p>Tomorrow we have a long drive ahead of us, if any drive in this country can be considered long.</p>\n\n<p>Even so I&rsquo;m still curious about how tinyMovieStar will handle it.</p>\n",
+				"content_text": "Tomorrow we have a long drive ahead of us, if any drive in this country can be considered long. \n\nEven so I'm still curious about how tinyMovieStar will handle it.\n",
+				"date_published": "2020-09-07T23:28:07+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/07/tomorrow-we-have.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/07/added-the-booking.html",
+				
+				"content_html": "<p>Added the Booking confirmation to Apple Wallet. It&rsquo;s been months since I&rsquo;ve had the pleasure. Never thought booking a room would feel odd, but here we are&hellip;</p>\n",
+				"content_text": "Added the Booking confirmation to Apple Wallet. It's been months since I've had the pleasure. Never thought booking a room would feel odd, but here we are...\n",
+				"date_published": "2020-09-07T18:09:16+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/07/added-the-booking.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/07/packing-is-almost.html",
+				
+				"content_html": "<p>Packing is almost done. Took us most of the day.</p>\n",
+				"content_text": "Packing is almost done. Took us most of the day.\n",
+				"date_published": "2020-09-07T17:33:14+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/07/packing-is-almost.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/07/morning.html",
+				
+				"content_html": "<p>Morning</p>\n\n<p>Took off with tinyMovieStar for a 6K walk, while movieStar was busy finishing the packing process for tomorrow’s trip.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/bf99e5541e.jpg\" alt=\"\" /></p>\n\n<p>She joined us a bit later and we walked together for another hour.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/d56404e904.jpg\" alt=\"\" /></p>\n\n<p>Not a lot of photos today, but spotted the least adequate car for this city.</p>\n",
+				"content_text": "Morning \n\nTook off with tinyMovieStar for a 6K walk, while movieStar was busy finishing the packing process for tomorrow’s trip.\n\n![](https://micro.maiquemadeira.com/uploads/2020/bf99e5541e.jpg)\n\nShe joined us a bit later and we walked together for another hour. \n\n![](https://micro.maiquemadeira.com/uploads/2020/d56404e904.jpg)\n\nNot a lot of photos today, but spotted the least adequate car for this city. \n",
+				"date_published": "2020-09-07T12:47:36+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/07/morning.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/07/packing-for-a.html",
+				
+				"content_html": "<p>Packing for a few days out of town with tinyMovieStar. It will be her first trip.</p>\n\n<p>Packing is VERY different now.</p>\n\n<p>Mom&rsquo;s bag count: 1.<br />\nDad&rsquo;s bag count: 1.<br />\ntinyMovieStar bag count: ♾</p>\n",
+				"content_text": "Packing for a few days out of town with tinyMovieStar. It will be her first trip. \n\nPacking is VERY different now.  \n\nMom's bag count: 1.  \nDad's bag count: 1.  \ntinyMovieStar bag count: ♾\n",
+				"date_published": "2020-09-07T09:43:25+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/07/packing-for-a.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/07/the-wedding-day.html",
+				"title": "The Wedding Day",
+				"content_html": "<p>One of the stops we made during our extended honeymoon was Bali. I had been only once, for a single night, on a layover to another, more remote, island. That had been years before I ever thought I’d go back, and at the time I was working, so that’s a story for another day.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/fe0f8733de.jpg\" alt=\"\" /></p>\n\n<p>We both knew we wanted to go there, but we didn’t want to spend time in the crowded areas. We did what the cool kids were doing and booked Ubud. Turns out there’s a LOT of cool kids, and Ubud was a little too crowded as well, although still very enjoyable. But we needed to find a quieter place, and MovieStar had picked Nusa Penida, a small island not far by speed boat.</p>\n\n<p>Not sure how things are today, but at the time there were not a lot of places where we could spend a few nights on that island, and one jumped at us: <a href=\"https://batansabo.com\">Batan Sabo</a>. It looked amazing, relaxed and comfortable. We booked it, and a couple of emails were sent back and forth, setting up a transfer from the dock and other smaller things. Turns out the owner was a very cool and respected photographer on the archipelago! We didn’t know it yet, but he would be the most gracious host, and the proverbial cherry on top of an amazing stay.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/1d9cc7d4e8.jpg\" alt=\"\" /></p>\n\n<p>The island is beautiful, and on its way to becoming an <em>influencer</em> magnet, so things might be different now. The <a href=\"https://micro.maiquemadeira.com/2020/06/21/a-cliff-fit.html\">cliffs</a> are superb, and it’s <a href=\"https://micro.maiquemadeira.com/2020/07/27/we-could-be.html\">easy to understand</a> why they attract so many of these particular travelers.</p>\n\n<p>Moving on&hellip; we arrived and it soon became apparent we had picked the right place.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/23a68664c1.jpg\" alt=\"\" /></p>\n\n<p><a href=\"https://instagram.com/pandeheryana\">Pande Heryana</a> welcomed us to his small cottage, decorated in standard hipster style, and soon we were laughing together, while we ate delicious food and he played the guitar for us. We talked photography and life, tourism and opportunities.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/51146964fc.jpg\" alt=\"\" /></p>\n\n<p>The island is really small, and although it has more than a few spots that are very much worth a visit, Pande spends a lot of time on the big island, shooting couples on honeymoon and a few weddings as well. Tourism was growing on his native island, we wasn’t sure how that would turn out, a bit scared it would ruin the authenticity of the place, but he decided to open the cottage with his brothers, and have a go at the hospitality business.</p>\n\n<p>First night on the island and we were already loving it.</p>\n\n<p>Morning came and we were getting ready to have breakfast, and Pande told us there would be a wedding in the family in a couple of days and that he would like to invite us to attend the ceremony. He insisted, and so did his wife.</p>\n\n<p>I only had one shirt that I thought would be appropriate, and he said he would help us with that as well. We shouldn’t worry.</p>\n\n<p>How many times would we be able to attend one of these weddings in our lifetime? I would say none, or, if we are very lucky, one. We were very lucky.</p>\n\n<p>Two days later I picked up the camera, put on my best shirt, and the traditional headwear and skirt, movieStar was helped by Pande’s wife, <a href=\"https://instagram.com/jejeprimaw\">Prima</a>, and off we went.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/3e67b13b7e.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/f5098484bd.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/9caba072cf.jpg\" alt=\"\" /></p>\n\n<p>We were treated like family, with the little ones looking at us with curiosity (my beard is an amazing ice breaker), the older ones pushing food into our mouths, just like home.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/fef917fda2.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/d97f4c22af.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/7b27650e38.jpg\" alt=\"\" /></p>\n\n<p>Flowers were offered to multiple gods, and we tried to understand as much as we could, and answer as many questions as possible. They were as interested in us as we were in them. It was one of the most gratifying days of the whole trip. It was amazing to be able to interact with them on that level, and the memories we brought home are still very alive. We still talk to them from time to time, checking in on their family, and they now do the same with our new tinyMovieStar.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/512f5a6f0d.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/bc6f2c18f4.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/cccdba2a64.jpg\" alt=\"\" /></p>\n\n<p>In the end, that’s why we travel.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/b88d53852b.jpg\" alt=\"\" /></p>\n",
+				"content_text": "One of the stops we made during our extended honeymoon was Bali. I had been only once, for a single night, on a layover to another, more remote, island. That had been years before I ever thought I’d go back, and at the time I was working, so that’s a story for another day. \n\n![](https://micro.maiquemadeira.com/uploads/2020/fe0f8733de.jpg)\n\nWe both knew we wanted to go there, but we didn’t want to spend time in the crowded areas. We did what the cool kids were doing and booked Ubud. Turns out there’s a LOT of cool kids, and Ubud was a little too crowded as well, although still very enjoyable. But we needed to find a quieter place, and MovieStar had picked Nusa Penida, a small island not far by speed boat. \n\nNot sure how things are today, but at the time there were not a lot of places where we could spend a few nights on that island, and one jumped at us: [Batan Sabo](https://batansabo.com). It looked amazing, relaxed and comfortable. We booked it, and a couple of emails were sent back and forth, setting up a transfer from the dock and other smaller things. Turns out the owner was a very cool and respected photographer on the archipelago! We didn’t know it yet, but he would be the most gracious host, and the proverbial cherry on top of an amazing stay. \n\n![](https://micro.maiquemadeira.com/uploads/2020/1d9cc7d4e8.jpg)\n\nThe island is beautiful, and on its way to becoming an *influencer* magnet, so things might be different now. The [cliffs](https://micro.maiquemadeira.com/2020/06/21/a-cliff-fit.html) are superb, and it’s [easy to understand](https://micro.maiquemadeira.com/2020/07/27/we-could-be.html) why they attract so many of these particular travelers. \n\nMoving on... we arrived and it soon became apparent we had picked the right place. \n\n![](https://micro.maiquemadeira.com/uploads/2020/23a68664c1.jpg)\n\n[Pande Heryana](https://instagram.com/pandeheryana) welcomed us to his small cottage, decorated in standard hipster style, and soon we were laughing together, while we ate delicious food and he played the guitar for us. We talked photography and life, tourism and opportunities. \n\n![](https://micro.maiquemadeira.com/uploads/2020/51146964fc.jpg)\n\nThe island is really small, and although it has more than a few spots that are very much worth a visit, Pande spends a lot of time on the big island, shooting couples on honeymoon and a few weddings as well. Tourism was growing on his native island, we wasn’t sure how that would turn out, a bit scared it would ruin the authenticity of the place, but he decided to open the cottage with his brothers, and have a go at the hospitality business. \n\nFirst night on the island and we were already loving it.  \n\nMorning came and we were getting ready to have breakfast, and Pande told us there would be a wedding in the family in a couple of days and that he would like to invite us to attend the ceremony. He insisted, and so did his wife. \n\nI only had one shirt that I thought would be appropriate, and he said he would help us with that as well. We shouldn’t worry.\n\nHow many times would we be able to attend one of these weddings in our lifetime? I would say none, or, if we are very lucky, one. We were very lucky. \n\nTwo days later I picked up the camera, put on my best shirt, and the traditional headwear and skirt, movieStar was helped by Pande’s wife, [Prima](https://instagram.com/jejeprimaw), and off we went. \n\n![](https://micro.maiquemadeira.com/uploads/2020/3e67b13b7e.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/f5098484bd.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/9caba072cf.jpg)\n\nWe were treated like family, with the little ones looking at us with curiosity (my beard is an amazing ice breaker), the older ones pushing food into our mouths, just like home. \n\n![](https://micro.maiquemadeira.com/uploads/2020/fef917fda2.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/d97f4c22af.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/7b27650e38.jpg)\n\nFlowers were offered to multiple gods, and we tried to understand as much as we could, and answer as many questions as possible. They were as interested in us as we were in them. It was one of the most gratifying days of the whole trip. It was amazing to be able to interact with them on that level, and the memories we brought home are still very alive. We still talk to them from time to time, checking in on their family, and they now do the same with our new tinyMovieStar. \n\n![](https://micro.maiquemadeira.com/uploads/2020/512f5a6f0d.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/bc6f2c18f4.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/cccdba2a64.jpg)\n\nIn the end, that’s why we travel. \n\n![](https://micro.maiquemadeira.com/uploads/2020/b88d53852b.jpg)\n",
+				"date_published": "2020-09-07T00:30:17+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/07/the-wedding-day.html",
+				"tags": ["photography","travel"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/06/apollo-for-reddit.html",
+				
+				"content_html": "<p>Apollo for Reddit is still on my homescreen, but I haven&rsquo;t used it in months. Many months.</p>\n",
+				"content_text": "Apollo for Reddit is still on my homescreen, but I haven't used it in months. Many months. \n",
+				"date_published": "2020-09-06T20:46:51+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/06/apollo-for-reddit.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/06/back-home-after.html",
+				
+				"content_html": "<p>Back home after a very full day, with a lot of people. Still find it mildly uncomfortable to be around more than five humans at a time.</p>\n",
+				"content_text": "Back home after a very full day, with a lot of people. Still find it mildly uncomfortable to be around more than five humans at a time. \n",
+				"date_published": "2020-09-06T19:47:32+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/06/back-home-after.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/06/already-at-the.html",
+				
+				"content_html": "<p>Already at the in-laws. Stopped along the way at an aunts house, one tinyMovieStar hadn&rsquo;t met yet, and another quick stop by the side of the road, for a quick snack for the baby. I&rsquo;m guessing there will be a lot of these snack stops in our future 🤣</p>\n",
+				"content_text": "Already at the in-laws. Stopped along the way at an aunts house, one tinyMovieStar hadn't met yet, and another quick stop by the side of the road, for a quick snack for the baby. I'm guessing there will be a lot of these snack stops in our future 🤣\n",
+				"date_published": "2020-09-06T12:43:09+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/06/already-at-the.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/06/celebrating-this-day.html",
+				
+				"content_html": "<p>Celebrating this day with a photo from the coolest wedding I’ve been to, besides my own. Invited for this sweet party in Nusa Penida.</p>\n\n<p>👰🏻 🇮🇩</p>\n\n<p><img src=\"uploads/2020/837cbacba8.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Celebrating this day with a photo from the coolest wedding I’ve been to, besides my own. Invited for this sweet party in Nusa Penida.   \n\n👰🏻 🇮🇩 \n\n<img src=\"uploads/2020/837cbacba8.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-06T08:55:50+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/06/celebrating-this-day.html",
+				"tags": ["photography","indonesiaBsides","bridalBliss"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/06/today-is-my.html",
+				
+				"content_html": "<p>Today is my in-laws 40th anniversary, so we have to get going in a while anyway. Might as well start that coffee machine and get on with the day.</p>\n",
+				"content_text": "Today is my in-laws 40th anniversary, so we have to get going in a while anyway. Might as well start that coffee machine and get on with the day. \n",
+				"date_published": "2020-09-06T07:55:02+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/06/today-is-my.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/06/woke-up-with.html",
+				
+				"content_html": "<p>Woke up with the noise from the laptop&rsquo;s fan going full speed!</p>\n\n<p>Why is the darn thing waking up from sleep on its own ??</p>\n",
+				"content_text": "Woke up with the noise from the laptop's fan going full speed!\n\nWhy is the darn thing waking up from sleep on its own ?? \n",
+				"date_published": "2020-09-06T07:04:12+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/06/woke-up-with.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/05/same-same.html",
+				
+				"content_html": "<p>Same Same</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/45e7d4fb9d.jpg\" alt=\"\" /></p>\n\n<p>Today’s report is: regular day.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/cd99e26390.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/ddf6417ffd.jpg\" alt=\"\" /></p>\n\n<p>Nothing fancy. We went out in the morning, through the farmers market. Bought nothing, as we’re going out of town for a few days, walked around, came home, lunch and a nap, and out again for the usual afternoon beer and walk.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/64ad072c20.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/f0e131579d.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/11924d4e88.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/2effe96f9e.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Same Same\n\n![](https://micro.maiquemadeira.com/uploads/2020/45e7d4fb9d.jpg)\n\nToday’s report is: regular day. \n\n![](https://micro.maiquemadeira.com/uploads/2020/cd99e26390.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/ddf6417ffd.jpg)\n\nNothing fancy. We went out in the morning, through the farmers market. Bought nothing, as we’re going out of town for a few days, walked around, came home, lunch and a nap, and out again for the usual afternoon beer and walk. \n\n![](https://micro.maiquemadeira.com/uploads/2020/64ad072c20.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/f0e131579d.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/11924d4e88.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/2effe96f9e.jpg)\n",
+				"date_published": "2020-09-05T21:07:24+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/05/same-same.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/05/i-could-have.html",
+				
+				"content_html": "<p>I could have nothing but this warm French bread and butter from the Azores for lunch! Amazing combo.</p>\n",
+				"content_text": "I could have nothing but this warm French bread and butter from the Azores for lunch! Amazing combo. \n",
+				"date_published": "2020-09-05T12:46:13+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/05/i-could-have.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/05/for-international-beard.html",
+				
+				"content_html": "<p>For International Beard Day&hellip;.</p>\n\n<p><img src=\"uploads/2020/515370c540.jpg\" width=\"600\" height=\"900\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Bearded maique on the island.. 🧔🏻🌴</p>\n\n<p><img src=\"uploads/2020/3f354fcde7.jpg\" width=\"600\" height=\"798\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "For International Beard Day.... \n\n<img src=\"uploads/2020/515370c540.jpg\" width=\"600\" height=\"900\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nBearded maique on the island.. 🧔🏻🌴\n\n<img src=\"uploads/2020/3f354fcde7.jpg\" width=\"600\" height=\"798\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-05T12:11:40+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/05/for-international-beard.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/05/morning-meetings-were.html",
+				
+				"content_html": "<p>Morning meetings were like&hellip;</p>\n\n<p><img src=\"uploads/2020/d233658548.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Morning meetings were like...\n\n<img src=\"uploads/2020/d233658548.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-05T00:00:09+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/05/morning-meetings-were.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/04/after-weeks-of.html",
+				
+				"content_html": "<p>After weeks of peaceful nighttime routine, today we&rsquo;re having some difficulty getting tinyMovieStar to fall asleep. Nothing too serious, yet, but getting close to midnight and she usually is out by 8/9PM.</p>\n\n<p>Not the best day for this, but truth is it&rsquo;s Friday night.. she knows it!</p>\n",
+				"content_text": "After weeks of peaceful nighttime routine, today we're having some difficulty getting tinyMovieStar to fall asleep. Nothing too serious, yet, but getting close to midnight and she usually is out by 8/9PM. \n\nNot the best day for this, but truth is it's Friday night.. she knows it!\n",
+				"date_published": "2020-09-04T23:52:34+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/04/after-weeks-of.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/04/coffee-run.html",
+				
+				"content_html": "<p>Coffee run</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/3ded984a4b.jpg\" alt=\"\" /></p>\n\n<p>We ran out of coffee, so the destination of today’s morning walk was decided: Chiado.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/5a84b02a5b.jpg\" alt=\"\" /></p>\n\n<p>A break in the editing chore and off we went, 5K round-trip.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/ca827fb757.jpg\" alt=\"\" /></p>\n\n<p>It’s another hot day in town, so we tried to go a bit earlier than usual.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/7ff170013a.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/7da1952db5.jpg\" alt=\"\" /></p>\n\n<p>Editing almost done. On time.</p>\n",
+				"content_text": "Coffee run\n\n![](https://micro.maiquemadeira.com/uploads/2020/3ded984a4b.jpg)\n\nWe ran out of coffee, so the destination of today’s morning walk was decided: Chiado. \n\n![](https://micro.maiquemadeira.com/uploads/2020/5a84b02a5b.jpg)\n\nA break in the editing chore and off we went, 5K round-trip. \n\n![](https://micro.maiquemadeira.com/uploads/2020/ca827fb757.jpg)\n\nIt’s another hot day in town, so we tried to go a bit earlier than usual. \n\n![](https://micro.maiquemadeira.com/uploads/2020/7ff170013a.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/7da1952db5.jpg)\n\nEditing almost done. On time. \n",
+				"date_published": "2020-09-04T15:59:35+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/04/coffee-run.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/04/back-at-it.html",
+				
+				"content_html": "<p>Back at it. Hope to be done with this today. Still three days of shooting to go through&hellip;.</p>\n\n<p>Starting with <a href=\"https://song.link/pt/i/265828038\">Antony and The Johnsons - Knockin&rsquo; On Heaven&rsquo;s Door</a>. Hope you have a great day.</p>\n",
+				"content_text": "Back at it. Hope to be done with this today. Still three days of shooting to go through....  \r\n\r\nStarting with [Antony and The Johnsons - Knockin' On Heaven's Door](https://song.link/pt/i/265828038). Hope you have a great day.\n",
+				"date_published": "2020-09-04T09:13:07+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/04/back-at-it.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/04/too-hot-to.html",
+				
+				"content_html": "<p>Too hot to sleep.</p>\n",
+				"content_text": "Too hot to sleep. \n",
+				"date_published": "2020-09-04T01:38:30+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/04/too-hot-to.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/throwback-to-many.html",
+				
+				"content_html": "<p>Throwback to many years ago.<br />\nTalking about longer hair got me thinking of other times&hellip; <a href=\"https://micro.blog/dominikhoecht\">@dominikhoecht</a> <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n\n<p><img src=\"uploads/2020/e91ad5f10d.jpg\" width=\"600\" height=\"682\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>A much younger me, fewer tattoos too&hellip;</p>\n\n<p><img src=\"uploads/2020/d6665620fb.jpg\" width=\"600\" height=\"398\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Throwback to many years ago.  \nTalking about longer hair got me thinking of other times... [@dominikhoecht](https://micro.blog/dominikhoecht) [@vincent](https://micro.blog/vincent)\n\n<img src=\"uploads/2020/e91ad5f10d.jpg\" width=\"600\" height=\"682\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nA much younger me, fewer tattoos too...\n\n<img src=\"uploads/2020/d6665620fb.jpg\" width=\"600\" height=\"398\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-03T21:18:17+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/throwback-to-many.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/not-a-lot.html",
+				
+				"content_html": "<p>Not a lot to show for today, spent most of the day locked at home editing photos. Two walks as usual, one at a mostly boring part of the neighborhood, the other has been shown before many times.</p>\n\n<p><img src=\"uploads/2020/5d48bdc2d7.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Not a lot to show for today, spent most of the day locked at home editing photos. Two walks as usual, one at a mostly boring part of the neighborhood, the other has been shown before many times. \n\n<img src=\"uploads/2020/5d48bdc2d7.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-03T20:30:46+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/not-a-lot.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/a-pause-from.html",
+				
+				"content_html": "<p>A pause from editing for our afternoon walk, and we stopped at the ice cream shop down the street and got a HUGE box. I guess I know what we&rsquo;re having for dinner&hellip; Muahahahahahahah&hellip;</p>\n",
+				"content_text": "A pause from editing for our afternoon walk, and we stopped at the ice cream shop down the street and got a HUGE box. I guess I know what we're having for dinner... Muahahahahahahah...\n",
+				"date_published": "2020-09-03T19:23:07+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/a-pause-from.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/when-all-this.html",
+				
+				"content_html": "<p>When all this editing is done, we&rsquo;ll probably take a trip down south, to the Algarve. Usually it&rsquo;s full of tourists but, this year, it seems it&rsquo;s worth a visit again. I used to go there with my parents when I was a kid, but haven&rsquo;t been in over a decade. Looking forward to it.</p>\n",
+				"content_text": "When all this editing is done, we'll probably take a trip down south, to the Algarve. Usually it's full of tourists but, this year, it seems it's worth a visit again. I used to go there with my parents when I was a kid, but haven't been in over a decade. Looking forward to it.\n",
+				"date_published": "2020-09-03T17:04:30+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/when-all-this.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/afternoon-editing-session.html",
+				
+				"content_html": "<p>Afternoon editing session is ongoing&hellip;</p>\n\n<p>Listening to <a href=\"https://song.link/pt/i/148457044\">Goree - Nuru Kane</a>.</p>\n",
+				"content_text": "Afternoon editing session is ongoing...\r\n\r\nListening to [Goree - Nuru Kane](https://song.link/pt/i/148457044).\n",
+				"date_published": "2020-09-03T13:44:17+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/afternoon-editing-session.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/another-day-of.html",
+				
+				"content_html": "<p>Another day of shooting edited, so only four left to go! Time for our morning walk&hellip;</p>\n",
+				"content_text": "Another day of shooting edited, so only four left to go! Time for our morning walk...\n",
+				"date_published": "2020-09-03T10:25:46+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/another-day-of.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/now-playing-singing.html",
+				
+				"content_html": "<p>Now playing: <a href=\"https://song.link/pt/i/1075331802\">Singing Saw - Kevin Morby</a>.</p>\n\n<p>I LOVE music and haven&rsquo;t been getting enough of it.</p>\n",
+				"content_text": "Now playing: [Singing Saw - Kevin Morby](https://song.link/pt/i/1075331802).\r\n\r\nI LOVE music and haven't been getting enough of it.\n",
+				"date_published": "2020-09-03T09:42:10+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/now-playing-singing.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/03/good-thing-about.html",
+				
+				"content_html": "<p>Good thing about editing: music is on all day long.</p>\n",
+				"content_text": "Good thing about editing: music is on all day long.\n",
+				"date_published": "2020-09-03T09:26:25+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/03/good-thing-about.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/02/afternoon.html",
+				
+				"content_html": "<p>Editing Day (first one)</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/8e9a577bf0.jpg\" alt=\"\" /></p>\n\n<p>Lunch with parents and brother, after editing a ton of photos, then back home to edit a few more, out for a walk, and back to editing.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/30c95ef5e4.jpg\" alt=\"\" /></p>\n\n<p>Dinner, and done.<br />\nAlready picked the ones I’ll edit tomorrow morning, so that’s a good thing.</p>\n",
+				"content_text": "Editing Day (first one) \n\n![](https://micro.maiquemadeira.com/uploads/2020/8e9a577bf0.jpg)\n\nLunch with parents and brother, after editing a ton of photos, then back home to edit a few more, out for a walk, and back to editing. \n\n![](https://micro.maiquemadeira.com/uploads/2020/30c95ef5e4.jpg)\n\nDinner, and done.  \nAlready picked the ones I’ll edit tomorrow morning, so that’s a good thing. \n",
+				"date_published": "2020-09-02T21:52:19+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/02/afternoon.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/02/photos-edited-today.html",
+				
+				"content_html": "<p>Photos edited today: a ton!</p>\n\n<p>Also, renewed WeTransfer for a month, I could already tell the 2GB wouldn&rsquo;t be enough for my transfers. As usual.</p>\n",
+				"content_text": "Photos edited today: a ton! \n\nAlso, renewed WeTransfer for a month, I could already tell the 2GB wouldn't be enough for my transfers. As usual. \n",
+				"date_published": "2020-09-02T21:29:37+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/02/photos-edited-today.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/02/screeching-and-editing.html",
+				
+				"content_html": "<p>Screeching and editing do not go hand in hand. I can tell you that already.</p>\n",
+				"content_text": "Screeching and editing do not go hand in hand. I can tell you that already.\n",
+				"date_published": "2020-09-02T16:25:56+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/02/screeching-and-editing.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/02/back-from-lunch.html",
+				
+				"content_html": "<p>Back from lunch at Mom&amp;Dad&rsquo;s.</p>\n\n<p>Editing.</p>\n\n<p>Editing.</p>\n\n<p>Editing.</p>\n\n<p>Damn.</p>\n",
+				"content_text": "Back from lunch at Mom&Dad's.  \n\nEditing.  \n\nEditing.  \n\nEditing.  \n\nDamn. \n",
+				"date_published": "2020-09-02T15:40:02+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/02/back-from-lunch.html"
+			},
+			{
 				"id": "http://maique.micro.blog/2020/09/02/baby-news-update.html",
 				
 				"content_html": "<p>Baby news update: tinyMovieStar now squeals from time to time, but not much, and is able to quickly turn herself around and lie on her tummy. Still a sweet, calm baby. She&rsquo;s also looking at us, intently, and not in our general direction anymore.</p>\n",
