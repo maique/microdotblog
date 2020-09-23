@@ -7,6 +7,296 @@
 	"items": [
 		
 			{
+				"id": "http://maique.micro.blog/2020/09/23/id-cards-check.html",
+				
+				"content_html": "<p>ID Cards: Check!</p>\n\n<p>We now have brand new cards, all three of us, and it only took us around 5 months to get them! Yay for bureaucracy!</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/a221d9986b.jpg\" alt=\"\" /></p>\n\n<p>On the way back we took a different route and walked by the city hall.</p>\n",
+				"content_text": "ID Cards: Check! \n\nWe now have brand new cards, all three of us, and it only took us around 5 months to get them! Yay for bureaucracy! \n\n![](https://micro.maiquemadeira.com/uploads/2020/a221d9986b.jpg)\n\nOn the way back we took a different route and walked by the city hall. \n",
+				"date_published": "2020-09-23T12:48:02+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/23/id-cards-check.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/22/fed-up-with.html",
+				
+				"content_html": "<p>Fed up with widgets on homescreen and the constant mess it was turning into every time I tried to add another to the <em>smart</em> one I was using. Apps get shuffled, moved to next page, even though there&rsquo;s plenty of room on the main one. There has to be a better way.</p>\n",
+				"content_text": "Fed up with widgets on homescreen and the constant mess it was turning into every time I tried to add another to the _smart_ one I was using. Apps get shuffled, moved to next page, even though there's plenty of room on the main one. There has to be a better way. \n",
+				"date_published": "2020-09-22T22:09:55+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/22/fed-up-with.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/22/k-today-again.html",
+				
+				"content_html": "<p>10K today, again. We&rsquo;re getting fit thanks to tinyMovieStar.</p>\n",
+				"content_text": "10K today, again. We're getting fit thanks to tinyMovieStar. \n",
+				"date_published": "2020-09-22T20:26:14+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/22/k-today-again.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/22/not-the-nicest.html",
+				
+				"content_html": "<p>Not the nicest looking part of town, but it’s the view from the pediatrician’s office.</p>\n\n<p>And we just found out another friend is pregnant! That’s the third this month! Yay for babies!</p>\n\n<p><img src=\"uploads/2020/883ab514b3.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Not the nicest looking part of town, but it’s the view from the pediatrician’s office.  \n\nAnd we just found out another friend is pregnant! That’s the third this month! Yay for babies! \n\n<img src=\"uploads/2020/883ab514b3.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-22T18:49:12+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/22/not-the-nicest.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/22/showed-ted-lasso.html",
+				
+				"content_html": "<p>Showed <strong>Ted Lasso</strong> to movieStar and she loved it! We watched all of it. That&rsquo;s the second time for me. And I would do it again, truth be told!</p>\n",
+				"content_text": "Showed **Ted Lasso** to movieStar and she loved it! We watched all of it. That's the second time for me. And I would do it again, truth be told! \n",
+				"date_published": "2020-09-22T13:26:00+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/22/showed-ted-lasso.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/22/so-far-so.html",
+				
+				"content_html": "<p>So far, so good&hellip;</p>\n\n<p>Managed our walk in the morning, met a friend by chance and talked for a while.</p>\n\n<p><img src=\"uploads/2020/84fae75e74.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>This afternoon there’s the pediatrician appointment and another house visit.</p>\n\n<p><img src=\"uploads/2020/2d47c778cb.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "So far, so good...\n\nManaged our walk in the morning, met a friend by chance and talked for a while.\n\n<img src=\"uploads/2020/84fae75e74.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThis afternoon there’s the pediatrician appointment and another house visit. \n\n<img src=\"uploads/2020/2d47c778cb.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-22T13:24:06+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/22/so-far-so.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/22/the-raven-our.html",
+				
+				"content_html": "<p>The Raven, our city’s bird.\nPortrait mode screwed it up a bit, but&hellip;</p>\n\n<p><img src=\"uploads/2020/fe5294dcfe.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "The Raven, our city’s bird. \nPortrait mode screwed it up a bit, but...\n\n<img src=\"uploads/2020/fe5294dcfe.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-22T08:36:31+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/22/the-raven-our.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/21/really-nice-way.html",
+				
+				"content_html": "<p>Really nice way to end the day. We didn&rsquo;t get our afternoon walk, but did meet <a href=\"https://micro.blog/helgeg\">@helgeg</a>, so that was more than worth it.</p>\n\n<p>A couple of beers were shared, and a few friends showed up to top it off.</p>\n\n<p>And Panda Cantina&rsquo;s ramen is still yummy.</p>\n\n<p>Perfect day.</p>\n",
+				"content_text": "Really nice way to end the day. We didn't get our afternoon walk, but did meet [@helgeg](https://micro.blog/helgeg), so that was more than worth it. \n\nA couple of beers were shared, and a few friends showed up to top it off. \n\nAnd Panda Cantina's ramen is still yummy. \n\nPerfect day. \n",
+				"date_published": "2020-09-21T21:40:24+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/21/really-nice-way.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/21/thank-you-tinymoviestar.html",
+				
+				"content_html": "<p>Thank you, tinyMovieStar, you&rsquo;re very thoughtful. We appreciate that.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/e922041925.png\" alt=\"\" /></p>\n",
+				"content_text": "Thank you, tinyMovieStar, you're very thoughtful. We appreciate that. \n\n![](https://micro.maiquemadeira.com/uploads/2020/e922041925.png)\n",
+				"date_published": "2020-09-21T16:32:22+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/21/thank-you-tinymoviestar.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/21/vroom-vroom-whos.html",
+				
+				"content_html": "<p>Vroom Vroom&hellip;</p>\n\n<p>Who’s there ?</p>\n\n<p><img src=\"uploads/2020/99d3922a35.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Vroom Vroom...  \n\nWho’s there ? \n\n<img src=\"uploads/2020/99d3922a35.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-21T13:35:51+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/21/vroom-vroom-whos.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/21/three-is-the.html",
+				
+				"content_html": "<p>Three is the magic number&hellip;</p>\n\n<p>🇩🇰 3️⃣</p>\n\n<p><img src=\"uploads/2020/274474afd5.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Three is the magic number...  \n\n🇩🇰 3️⃣\n\n<img src=\"uploads/2020/274474afd5.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-21T09:22:02+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/21/three-is-the.html",
+				"tags": ["photography","denmarkBsides"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/20/done-with-the.html",
+				
+				"content_html": "<p>Done with the weekend and looking forward to this week. It&rsquo;s a <em>busy</em> one: tinyMovieStar&rsquo;s fifth monthiversary, pediatrician appointment and we&rsquo;re finally getting out ID cards delivered! The three of us are getting new ones! Excited for the extra name!</p>\n",
+				"content_text": "Done with the weekend and looking forward to this week. It's a _busy_ one: tinyMovieStar's fifth monthiversary, pediatrician appointment and we're finally getting out ID cards delivered! The three of us are getting new ones! Excited for the extra name! \n",
+				"date_published": "2020-09-20T21:59:14+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/20/done-with-the.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/20/theres-an-ipa.html",
+				
+				"content_html": "<p>There&rsquo;s an IPA festival happening today at the local brewpub. Not sure we&rsquo;ll be able to make it&hellip; 😔 🍺</p>\n",
+				"content_text": "There's an IPA festival happening today at the local brewpub. Not sure we'll be able to make it... 😔 🍺 \n",
+				"date_published": "2020-09-20T15:29:22+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/20/theres-an-ipa.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/20/sunday-morning.html",
+				
+				"content_html": "<p>Sunday morning</p>\n\n<p>Rain stopped for a while, it seems, so we went out and walked again.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/04592faf7a.jpg\" alt=\"\" /></p>\n\n<p>São Pedro viewpoint, down to Carmo, Rossio and the Station, and up Elevador da Glória, a ruthless climb.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/31d4840381.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/dbf4d71b4e.jpg\" alt=\"\" /></p>\n\n<p><em>I think but don’t exist</em></p>\n\n<p>tinyMovieStar was exhausted, slept through it all.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/3ab6c8f7a7.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/42d5bd2a01.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Sunday morning\n\nRain stopped for a while, it seems, so we went out and walked again.\n\n![](https://micro.maiquemadeira.com/uploads/2020/04592faf7a.jpg)\n\nSão Pedro viewpoint, down to Carmo, Rossio and the Station, and up Elevador da Glória, a ruthless climb. \n\n![](https://micro.maiquemadeira.com/uploads/2020/31d4840381.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/dbf4d71b4e.jpg)\n\n_I think but don’t exist_\n\ntinyMovieStar was exhausted, slept through it all. \n\n![](https://micro.maiquemadeira.com/uploads/2020/3ab6c8f7a7.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/42d5bd2a01.jpg)\n\n",
+				"date_published": "2020-09-20T13:41:53+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/20/sunday-morning.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/20/and-were-seeing.html",
+				
+				"content_html": "<p>And we&rsquo;re seeing a rise in infections in the country. Not good.</p>\n",
+				"content_text": "And we're seeing a rise in infections in the country. Not good. \n",
+				"date_published": "2020-09-20T13:34:17+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/20/and-were-seeing.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/20/k-managed-our.html",
+				
+				"content_html": "<p>5.18K</p>\n\n<p>Managed our walk, no rain so far.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/34bfc12f61.png\" alt=\"\" /></p>\n\n<p>A little over 5K, but some hard climbs en route.<br />\nPhotos in a moment.</p>\n",
+				"content_text": "5.18K\n\nManaged our walk, no rain so far. \n\n![](https://micro.maiquemadeira.com/uploads/2020/34bfc12f61.png)\n\nA little over 5K, but some hard climbs en route.  \nPhotos in a moment. \n",
+				"date_published": "2020-09-20T11:45:16+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/20/k-managed-our.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/19/today-we-found.html",
+				
+				"content_html": "<p>Today we found out tinyMovieStar doesn’t like entertaining at home. Very social outdoors, but don’t even think about meeting us at home! She cried her little heart out when her aunt and uncle, whom she knows already, came inside!</p>\n\n<p>I support her! How could I not ? Look at her!</p>\n\n<p><img src=\"uploads/2020/88fb02fd54.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Today we found out tinyMovieStar doesn’t like entertaining at home. Very social outdoors, but don’t even think about meeting us at home! She cried her little heart out when her aunt and uncle, whom she knows already, came inside!  \n\nI support her! How could I not ? Look at her!\n\n<img src=\"uploads/2020/88fb02fd54.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-19T23:18:31+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/19/today-we-found.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/19/i-forgot-i.html",
+				
+				"content_html": "<p>I forgot I was supposed to attend a workshop this weekend and made other arrangements! That&rsquo;s what happens when there are so few appointments on the calendar, I don&rsquo;t even check it anymore.</p>\n",
+				"content_text": "I forgot I was supposed to attend a workshop this weekend and made other arrangements! That's what happens when there are so few appointments on the calendar, I don't even check it anymore.\n",
+				"date_published": "2020-09-19T10:39:16+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/19/i-forgot-i.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/that-one-time.html",
+				
+				"content_html": "<p>That one time a teacher made me cry so hard I tried hiding the tears with a camera, and couldn’t.</p>\n\n<p>🇹🇱 😭</p>\n\n<p><img src=\"uploads/2020/4250e96cb8.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "That one time a teacher made me cry so hard I tried hiding the tears with a camera, and couldn’t.  \n\n🇹🇱 😭\n\n<img src=\"uploads/2020/4250e96cb8.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-18T22:06:45+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/that-one-time.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/tinymoviestar-is-almost.html",
+				
+				"content_html": "<p>tinyMovieStar is almost crawling. She&rsquo;s doing the commando-style, arm-powered on her belly thing, but almost able to use her legs! It&rsquo;s amazing to watch.</p>\n",
+				"content_text": "tinyMovieStar is almost crawling. She's doing the commando-style, arm-powered on her belly thing, but almost able to use her legs! It's amazing to watch. \n",
+				"date_published": "2020-09-18T21:52:33+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/tinymoviestar-is-almost.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/set-up-one.html",
+				
+				"content_html": "<p>Set up one of the smaller square widgets on the homepage and the other apps kept getting moved around. So now the widget is gone.</p>\n",
+				"content_text": "Set up one of the smaller square widgets on the homepage and the other apps kept getting moved around. So now the widget is gone. \n",
+				"date_published": "2020-09-18T19:47:38+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/set-up-one.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/afternoon-walk-cut.html",
+				
+				"content_html": "<p>Afternoon walk cut short by a malfunctioning umbrella and a bit more rain than expected. A warm bath was picked as replacement program. No harm done.</p>\n",
+				"content_text": "Afternoon walk cut short by a malfunctioning umbrella and a bit more rain than expected. A warm bath was picked as replacement program. No harm done. \n",
+				"date_published": "2020-09-18T17:54:29+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/afternoon-walk-cut.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/panda-cantina-theres.html",
+				
+				"content_html": "<p>🐼 Panda Cantina</p>\n\n<p><img src=\"uploads/2020/70564a0fb3.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>There’s a new Panda Cantina, and it’s sooo close to home. Yummy ramen whenever we feel like it. Yay!</p>\n\n<p><img src=\"uploads/2020/41b3c1a725.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>movieStar was way more excited than it shows.</p>\n\n<p><img src=\"uploads/2020/5398098430.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "🐼 Panda Cantina\n\n<img src=\"uploads/2020/70564a0fb3.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThere’s a new Panda Cantina, and it’s sooo close to home. Yummy ramen whenever we feel like it. Yay! \n\n<img src=\"uploads/2020/41b3c1a725.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nmovieStar was way more excited than it shows.\n\n<img src=\"uploads/2020/5398098430.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-18T16:32:01+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/panda-cantina-theres.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/waiting-for-the.html",
+				
+				"content_html": "<p>Waiting for the downpour to pause, we need our walk and there&rsquo;s a new ramen place down the street we&rsquo;d love to try&hellip;. 🐼</p>\n",
+				"content_text": "Waiting for the downpour to pause, we need our walk and there's a new ramen place down the street we'd love to try.... 🐼 \n",
+				"date_published": "2020-09-18T11:46:58+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/waiting-for-the.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/raining-outside-what.html",
+				
+				"content_html": "<p>Raining outside, what are we gonna do ?</p>\n\n<p><img src=\"uploads/2020/ff0bb61eb4.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Raining outside, what are we gonna do ? \n\n<img src=\"uploads/2020/ff0bb61eb4.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-18T10:03:48+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/raining-outside-what.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/18/not-looking-good.html",
+				
+				"content_html": "<p>Not looking good&hellip; Except maybe for you <a href=\"https://micro.blog/helgeg\">@helgeg</a>.</p>\n\n<p><img src=\"uploads/2020/818a066923.jpg\" width=\"600\" height=\"1299\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Not looking good... Except maybe for you [@helgeg](https://micro.blog/helgeg).\n\n<img src=\"uploads/2020/818a066923.jpg\" width=\"600\" height=\"1299\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-18T08:49:56+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/18/not-looking-good.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/17/moviestars-side-and.html",
+				
+				"content_html": "<p>movieStar’s side, and mine 🍺</p>\n\n<p><img src=\"uploads/2020/1b9e5c27d3.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "movieStar’s side, and mine 🍺 \n\n<img src=\"uploads/2020/1b9e5c27d3.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-17T19:25:47+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/17/moviestars-side-and.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/17/shazam-with-picture.html",
+				
+				"content_html": "<p>Shazam with Picture in Picture! Now there&rsquo;s a game changer for me! And Things widgets. So many cool updates since yesterday.</p>\n",
+				"content_text": "Shazam with Picture in Picture! Now there's a game changer for me! And Things widgets. So many cool updates since yesterday. \n",
+				"date_published": "2020-09-17T14:52:05+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/17/shazam-with-picture.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/17/todays-car-sighting.html",
+				
+				"content_html": "<p>Today’s car sighting, a Volvo.</p>\n\n<p><img src=\"uploads/2020/0aeb480c40.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Not a car connoisseur, but the Volvos always look good to me.</p>\n\n<p><img src=\"uploads/2020/38885127ce.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Today’s car sighting, a Volvo.\n\n<img src=\"uploads/2020/0aeb480c40.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nNot a car connoisseur, but the Volvos always look good to me. \n\n<img src=\"uploads/2020/38885127ce.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-17T14:43:15+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/17/todays-car-sighting.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/17/rain-stopped-pretty.html",
+				
+				"content_html": "<p>Rain stopped pretty quick, so we did manage the morning walk. Sorry about that, <a href=\"https://micro.blog/helgeg\">@helgeg</a>. Maybe more rain will come later&hellip;</p>\n\n<p><img src=\"uploads/2020/ede2a52fee.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Rain stopped pretty quick, so we did manage the morning walk. Sorry about that, [@helgeg](https://micro.blog/helgeg). Maybe more rain will come later...\n\n<img src=\"uploads/2020/ede2a52fee.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-17T14:27:14+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/17/rain-stopped-pretty.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/17/orange-power-odd.html",
+				
+				"content_html": "<p>Orange Power! <a href=\"https://micro.blog/odd\">@odd</a></p>\n\n<p><img src=\"uploads/2020/7e39699304.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Chef Ants Uustalu, from Ööbiku Gastronoomiatalu in Estonia.</p>\n\n<p><img src=\"uploads/2020/61f250de2b.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Orange Power! [@odd](https://micro.blog/odd)\n\n<img src=\"uploads/2020/7e39699304.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nChef Ants Uustalu, from Ööbiku Gastronoomiatalu in Estonia. \n\n<img src=\"uploads/2020/61f250de2b.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-17T10:34:47+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/17/orange-power-odd.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/17/close-to-five.html",
+				
+				"content_html": "<p>Close to five months old and seeing rain for the first time. What kind of sorcery is this ? Water coming from the sky ? Where is all that blue above us ??</p>\n\n<p><img src=\"uploads/2020/d213a712a6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Close to five months old and seeing rain for the first time. What kind of sorcery is this ? Water coming from the sky ? Where is all that blue above us ??\n\n<img src=\"uploads/2020/d213a712a6.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-17T09:38:03+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/17/close-to-five.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/16/new-routine-for.html",
+				
+				"content_html": "<p>New routine for tinyMovieStar: every day she gets extra sleepy, and yet refuses to fall asleep without half an hour to an hour of screeching and other assorted sounds. Seems like she&rsquo;s in a lot of pain, but as soon as we look at her, she smiles. Every. Single. Day.</p>\n",
+				"content_text": "New routine for tinyMovieStar: every day she gets extra sleepy, and yet refuses to fall asleep without half an hour to an hour of screeching and other assorted sounds. Seems like she's in a lot of pain, but as soon as we look at her, she smiles. Every. Single. Day. \n",
+				"date_published": "2020-09-16T20:47:54+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/16/new-routine-for.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/09/16/no-rain.html",
+				
+				"content_html": "<p>No rain</p>\n\n<p>Rain still hasn’t shown up, so we went to a new grocery, and walked a bit around the block. Some more businesses are closing, while others seem to be unaffected.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/67c924a1be.jpg\" alt=\"\" /></p>\n\n<p>Maserati is gone, while upscale restaurants are open as usual.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/e37ff2f0ca.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/150da6cd2c.jpg\" alt=\"\" /></p>\n\n<p>New hipster bow tie shop just opened.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/2747a190bf.jpg\" alt=\"\" /></p>\n",
+				"content_text": "No rain \n\nRain still hasn’t shown up, so we went to a new grocery, and walked a bit around the block. Some more businesses are closing, while others seem to be unaffected. \n\n![](https://micro.maiquemadeira.com/uploads/2020/67c924a1be.jpg)\n\nMaserati is gone, while upscale restaurants are open as usual. \n\n![](https://micro.maiquemadeira.com/uploads/2020/e37ff2f0ca.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/150da6cd2c.jpg)\n\nNew hipster bow tie shop just opened. \n\n![](https://micro.maiquemadeira.com/uploads/2020/2747a190bf.jpg)\n",
+				"date_published": "2020-09-16T12:50:19+01:00",
+				"url": "https://micro.maiquemadeira.com/2020/09/16/no-rain.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://maique.micro.blog/2020/09/16/calcada.html",
 				
 				"content_html": "<p>Calçada</p>\n\n<p>Replacing the old (super slippery) pavement with newer one, with less slippery blocks thrown in.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/ed7bfa237b.jpg\" alt=\"\" /></p>\n\n<p><a href=\"https://en.wikipedia.org/wiki/Portuguese_pavement\">Calçada Portuguesa</a> is a beautiful thing, but can also be tricky and dangerous. A couple of weeks ago movieStar fell down on a steep street, while carrying tinyMovieStar.</p>\n",
