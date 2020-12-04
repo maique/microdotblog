@@ -7,13 +7,420 @@
 	"items": [
 		
 			{
+				"id": "http://maique.micro.blog/2020/12/04/crewshots.html",
+				
+				"content_html": "<p>CrewShots</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/7fb264e12c.jpg\" alt=\"\" /></p>\n\n<p>A couple more from today.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/05fffc2fce.jpg\" alt=\"\" /></p>\n",
+				"content_text": "CrewShots\n\n![](https://micro.maiquemadeira.com/uploads/2020/7fb264e12c.jpg)\n\nA couple more from today.\n\n![](https://micro.maiquemadeira.com/uploads/2020/05fffc2fce.jpg)\n",
+				"date_published": "2020-12-04T14:31:14+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/04/crewshots.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/03/felt-the-first.html",
+				
+				"content_html": "<p>Felt the first stages of a cold, and it&rsquo;s not a nice time to have one. Doctor on set gave a few pills. Feeling a bit better, but that didn&rsquo;t stop me from spending the whole afternoon fighting a HUGE drowsiness, almost nodding off on set&hellip;</p>\n",
+				"content_text": "Felt the first stages of a cold, and it's not a nice time to have one. Doctor on set gave a few pills. Feeling a bit better, but that didn't stop me from spending the whole afternoon fighting a HUGE drowsiness, almost nodding off on set...\n",
+				"date_published": "2020-12-03T20:25:08+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/03/felt-the-first.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/03/final-covid-test.html",
+				
+				"content_html": "<p>Final covid test for the Finnish show today, tomorrow first me for the Italian one.</p>\n\n<p>This. Will. Never. End.</p>\n",
+				"content_text": "Final covid test for the Finnish show today, tomorrow first me for the Italian one.\n\nThis. Will. Never. End.\n",
+				"date_published": "2020-12-03T16:51:34+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/03/final-covid-test.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/02/two-days-left.html",
+				
+				"content_html": "<p>Two days left on this one, can&rsquo;t wait for the weekend and some time with tinyMovieStar. Today I got home and movieStar was trying to keep her awake until I arrived. She saw me, flashed the sweetest smile, and <em>said</em> she had to sleep. Two minutes later she nodded off.</p>\n",
+				"content_text": "Two days left on this one, can't wait for the weekend and some time with tinyMovieStar. Today I got home and movieStar was trying to keep her awake until I arrived. She saw me, flashed the sweetest smile, and _said_ she had to sleep. Two minutes later she nodded off.\n",
+				"date_published": "2020-12-02T20:26:27+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/02/two-days-left.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/02/while-we-wait.html",
+				
+				"content_html": "<p>While We Wait</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/88007b4816.jpg\" alt=\"\" /></p>\n\n<p>In between takes there’s time for a bit of fun.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/df5377f55a.jpg\" alt=\"\" /></p>\n\n<p>Why not get some portraits from fellow crew members ?</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/7e2f7ed107.jpg\" alt=\"\" /></p>\n",
+				"content_text": "While We Wait\n\n![](https://micro.maiquemadeira.com/uploads/2020/88007b4816.jpg)\n\nIn between takes there’s time for a bit of fun. \n\n![](https://micro.maiquemadeira.com/uploads/2020/df5377f55a.jpg)\n\nWhy not get some portraits from fellow crew members ? \n\n![](https://micro.maiquemadeira.com/uploads/2020/7e2f7ed107.jpg)\n",
+				"date_published": "2020-12-02T16:57:36+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/02/while-we-wait.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/01/the-commute.html",
+				
+				"content_html": "<p>The Commute</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/a604a4bb3b.jpg\" alt=\"\" /></p>\n\n<p>Too early in the morning, after falling asleep in the couch late yesterday. Slept through the night, woke up just in time.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/a4b9060a88.jpg\" alt=\"\" /></p>\n",
+				"content_text": "The Commute\n\n![](https://micro.maiquemadeira.com/uploads/2020/a604a4bb3b.jpg)\n\nToo early in the morning, after falling asleep in the couch late yesterday. Slept through the night, woke up just in time. \n\n![](https://micro.maiquemadeira.com/uploads/2020/a4b9060a88.jpg)\n",
+				"date_published": "2020-12-01T14:48:21+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/01/the-commute.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/30/the-one-thing.html",
+				
+				"content_html": "<p>The one thing I dislike about these assignments is the embargo rules. I totally get them, it would ruin the whole point of the show, but sometimes I get a photo I wouldn&rsquo;t mind sharing and I have to wait six months before I can do that&hellip;</p>\n",
+				"content_text": "The one thing I dislike about these assignments is the embargo rules. I totally get them, it would ruin the whole point of the show, but sometimes I get a photo I wouldn't mind sharing and I have to wait six months before I can do that...\n",
+				"date_published": "2020-11-30T22:26:41+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/30/the-one-thing.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/30/back-home-from.html",
+				
+				"content_html": "<p>Back home from another day at the studio.</p>\n\n<p>TIL the thermometer they use to check us first thing every morning doesn&rsquo;t measure temperatures under 34c. I got a LOW. A few minutes later I was <em>warmer</em>, at 34.2c! Yikes!</p>\n",
+				"content_text": "Back home from another day at the studio.\r\n\r\nTIL the thermometer they use to check us first thing every morning doesn't measure temperatures under 34c. I got a LOW. A few minutes later I was _warmer_, at 34.2c! Yikes!\n",
+				"date_published": "2020-11-30T20:13:13+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/30/back-home-from.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/30/morning-routine.html",
+				
+				"content_html": "<p>Morning Routine</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/f6f25a07a8.jpg\" alt=\"\" /></p>\n\n<p>Coffee and <del>cigarettes</del> a mask.</p>\n",
+				"content_text": "Morning Routine\n\n![](https://micro.maiquemadeira.com/uploads/2020/f6f25a07a8.jpg)\n\nCoffee and ~~cigarettes~~ a mask. \n",
+				"date_published": "2020-11-30T11:12:16+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/30/morning-routine.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/30/have-a-great.html",
+				
+				"content_html": "<p>Have a great week</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/9d2d834ac8.jpg\" alt=\"\" /></p>\n\n<p>Here we go!</p>\n",
+				"content_text": "Have a great week\n\n![](https://micro.maiquemadeira.com/uploads/2020/9d2d834ac8.jpg)\n\nHere we go!\n",
+				"date_published": "2020-11-30T08:51:25+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/30/have-a-great.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/30/just-what-i.html",
+				
+				"content_html": "<p>Just what I needed to start the week&hellip; 🤬</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/ea64b01a78.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Just what I needed to start the week... 🤬\n\n![](https://micro.maiquemadeira.com/uploads/2020/ea64b01a78.jpg)\n",
+				"date_published": "2020-11-30T06:50:46+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/30/just-what-i.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/30/this-challenge-was.html",
+				
+				"content_html": "<p>This challenge was great to reinforce my belief that words don’t come that easy to me. Done it, but it was harder than I anticipated.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "This challenge was great to reinforce my belief that words don’t come that easy to me. Done it, but it was harder than I anticipated. \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-30T05:39:41+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/30/this-challenge-was.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/29/today-i-became.html",
+				
+				"content_html": "<p>Today I became a pedestrian again, after a week of driving. Usually we get around by foot, but working outside the city forces me to drive. Like it, but still prefer the walking method.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Today I became a pedestrian again, after a week of driving. Usually we get around by foot, but working outside the city forces me to drive. Like it, but still prefer the walking method. \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-29T15:56:06+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/29/today-i-became.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/29/day-off.html",
+				
+				"content_html": "<p>Day Off</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/37de0df3b4.jpg\" alt=\"\" /></p>\n\n<p>A lot of errands to run, but still time for a long walk, and all that before the 1PM curfew.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/297f4b1d77.jpg\" alt=\"\" /></p>\n\n<p>Feels great to be home.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/fcd17ed2e6.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Day Off\n\n![](https://micro.maiquemadeira.com/uploads/2020/37de0df3b4.jpg)\n\nA lot of errands to run, but still time for a long walk, and all that before the 1PM curfew. \n\n![](https://micro.maiquemadeira.com/uploads/2020/297f4b1d77.jpg)\n\nFeels great to be home. \n\n![](https://micro.maiquemadeira.com/uploads/2020/fcd17ed2e6.jpg)\n",
+				"date_published": "2020-11-29T14:35:05+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/29/day-off.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/28/back-home-for.html",
+				
+				"content_html": "<p>Back home for the day. Tomorrow we have the day off, and Monday we&rsquo;re back, early in the morning, for another covid test and a day of fun and games. Five days to go, then a language change. We&rsquo;re moving to Italian. Ciao!</p>\n",
+				"content_text": "Back home for the day. Tomorrow we have the day off, and Monday we're back, early in the morning, for another covid test and a day of fun and games. Five days to go, then a language change. We're moving to Italian. Ciao!\n",
+				"date_published": "2020-11-28T22:04:10+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/28/back-home-for.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/28/i-believe-the.html",
+				
+				"content_html": "<p>I believe the word generator is fixed! Mask? Mask?? Are we supposed to believe this is a &ldquo;random&rdquo; word?</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "I believe the word generator is fixed! Mask? Mask?? Are we supposed to believe this is a \"random\" word?\n\n✏️ #mbnov\n",
+				"date_published": "2020-11-28T13:57:27+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/28/i-believe-the.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/27/day-four.html",
+				
+				"content_html": "<p>Day Four? Five?</p>\n\n<p>Another one finished, we’re almost at the halfway point.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/3c7d1bd147.jpg\" alt=\"\" /></p>\n\n<p>Today António returned the <em>favor</em> and caught me while waiting for lunch. Double masked maique.</p>\n\n<p>Oh! And I’m also doing the Italian version, so that’s another week and a half of this!</p>\n",
+				"content_text": "Day Four? Five?\n\nAnother one finished, we’re almost at the halfway point. \n\n![](https://micro.maiquemadeira.com/uploads/2020/3c7d1bd147.jpg)\n\nToday António returned the _favor_ and caught me while waiting for lunch. Double masked maique. \n\nOh! And I’m also doing the Italian version, so that’s another week and a half of this!\n",
+				"date_published": "2020-11-27T21:16:43+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/27/day-four.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/27/to-write-or.html",
+				
+				"content_html": "<p>To write, or not to write. That is the dilemma.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "To write, or not to write. That is the dilemma. \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-27T09:04:55+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/27/to-write-or.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/26/fome.html",
+				
+				"content_html": "<p>Done</p>\n\n<p>Finished for today.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/67e78a0617.jpg\" alt=\"\" /></p>\n\n<p>Three days in and my nose is bruised from wearing the darn mask all day long. Still nine to go, and the band aids are already in place.</p>\n\n<p>See you tomorrow.</p>\n",
+				"content_text": "Done\n\nFinished for today. \n\n![](https://micro.maiquemadeira.com/uploads/2020/67e78a0617.jpg)\n\nThree days in and my nose is bruised from wearing the darn mask all day long. Still nine to go, and the band aids are already in place. \n\nSee you tomorrow. \n",
+				"date_published": "2020-11-26T23:32:11+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/26/fome.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/26/this-week-i.html",
+				
+				"content_html": "<p>This week I had to adjust. Can’t see tinyMovieStar awake, so I spend whatever free time I have going through the thousands of photos I have on the phone, and enjoying the ones movieStar sends throughout the day.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "This week I had to adjust. Can’t see tinyMovieStar awake, so I spend whatever free time I have going through the thousands of photos I have on the phone, and enjoying the ones movieStar sends throughout the day. \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-26T18:15:59+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/26/this-week-i.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/26/that-morning-mood.html",
+				
+				"content_html": "<p>That Morning Mood</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/40f6a55022.jpg\" alt=\"\" /></p>\n\n<p>Breakfast is such a happy moment at the studio&hellip;</p>\n",
+				"content_text": "That Morning Mood\n\n![](https://micro.maiquemadeira.com/uploads/2020/40f6a55022.jpg)\n\nBreakfast is such a happy moment at the studio...\n",
+				"date_published": "2020-11-26T13:04:46+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/26/that-morning-mood.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/25/wrapping-up-before.html",
+				
+				"content_html": "<p>Wrapping up before going to bed, for the absolute minimum amount of time that manages to keep me human-like, I realize it&rsquo;s been three days already since the last covid test, so tomorrow I&rsquo;ll have my nose vandalized again before breakfast. Sleep tight.</p>\n",
+				"content_text": "Wrapping up before going to bed, for the absolute minimum amount of time that manages to keep me human-like, I realize it's been three days already since the last covid test, so tomorrow I'll have my nose vandalized again before breakfast. Sleep tight.\n",
+				"date_published": "2020-11-25T22:48:28+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/25/wrapping-up-before.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/25/another-day-another.html",
+				
+				"content_html": "<p>Another day, another couple of thousand photos in the bag. Everytime I get home and see how many of them I&rsquo;ve taken I immediately start worrying about the time I&rsquo;ll spend picking and editing them. It&rsquo;s not going to be pretty.</p>\n",
+				"content_text": "Another day, another couple of thousand photos in the bag. Everytime I get home and see how many of them I've taken I immediately start worrying about the time I'll spend picking and editing them. It's not going to be pretty.\n",
+				"date_published": "2020-11-25T22:45:35+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/25/another-day-another.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/25/hirigo.html",
+				
+				"content_html": "<p>Hirigo!</p>\n",
+				"content_text": "Hirigo!\n",
+				"date_published": "2020-11-25T06:57:25+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/25/hirigo.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/25/im-too-close.html",
+				
+				"content_html": "<p>I’m too close to the end to call this one off. But it’s not easy trying, and failing, to come up with something decent every day.</p>\n\n<p>Sorry about that.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "I’m too close to the end to call this one off. But it’s not easy trying, and failing, to come up with something decent every day. \n\nSorry about that. \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-25T00:00:21+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/25/im-too-close.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/24/miss-the-times.html",
+				
+				"content_html": "<p>MIss the times when I didn&rsquo;t have to charge batteries for two cameras, and the powerbanks, and the phone, and the watch, &hellip;</p>\n",
+				"content_text": "MIss the times when I didn't have to charge batteries for two cameras, and the powerbanks, and the phone, and the watch, ...\n",
+				"date_published": "2020-11-24T23:44:16+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/24/miss-the-times.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/24/long-day.html",
+				
+				"content_html": "<p>Pitkä Päivä</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/a430496fd8.jpg\" alt=\"\" /></p>\n\n<p>Almost 15 hours later, back home. Sorting cards, charging batteries, getting things ready for tomorrow.</p>\n\n<p>Will sleep a couple of hours and I’ll be on my way, again.</p>\n\n<p>See you soon 😔</p>\n",
+				"content_text": "Pitkä Päivä\n\n![](https://micro.maiquemadeira.com/uploads/2020/a430496fd8.jpg)\n\nAlmost 15 hours later, back home. Sorting cards, charging batteries, getting things ready for tomorrow. \n\nWill sleep a couple of hours and I’ll be on my way, again. \n\nSee you soon 😔 \n",
+				"date_published": "2020-11-24T23:21:58+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/24/long-day.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/24/day-one-hours.html",
+				
+				"content_html": "<p>Day One: 14 hours and counting.</p>\n",
+				"content_text": "Day One: 14 hours and counting. \n",
+				"date_published": "2020-11-24T21:47:45+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/24/day-one-hours.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/24/i-have-to.html",
+				
+				"content_html": "<p>I have to start working today, must begin getting provisions for next year, make it a little different, better, than this one.</p>\n\n<p>Hopefully I&rsquo;ll able to get to the end of Microblogvember while working.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "I have to start working today, must begin getting provisions for next year, make it a little different, better, than this one.\n\nHopefully I'll able to get to the end of Microblogvember while working.\n\n✏️ #mbnov\n",
+				"date_published": "2020-11-24T06:50:01+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/24/i-have-to.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/24/ouch-cold-foggy.html",
+				
+				"content_html": "<p>Ouch!</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/512fba5296.jpg\" alt=\"\" /></p>\n\n<p>Cold, foggy, rainy, and too early in the morning. Hmmmmm&hellip; I know someone who&rsquo;s probably going to be happy. But it&rsquo;s not me.</p>\n",
+				"content_text": "Ouch!\n\n![](https://micro.maiquemadeira.com/uploads/2020/512fba5296.jpg)\n\nCold, foggy, rainy, and too early in the morning. Hmmmmm... I know someone who's probably going to be happy. But it's not me. \n",
+				"date_published": "2020-11-24T06:46:45+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/24/ouch-cold-foggy.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/23/afternoon-mix.html",
+				
+				"content_html": "<p>Afternoon Mix</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/678aa3972e.jpg\" alt=\"\" /></p>\n\n<p>Last walk for a while, and a few errands.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/62fa290a7e.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/f76a329e3f.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/ed8849a73c.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/ba7b01b596.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Afternoon Mix\n\n![](https://micro.maiquemadeira.com/uploads/2020/678aa3972e.jpg)\n\nLast walk for a while, and a few errands. \n\n![](https://micro.maiquemadeira.com/uploads/2020/62fa290a7e.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/f76a329e3f.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/ed8849a73c.jpg)\n\n![](https://micro.maiquemadeira.com/uploads/2020/ba7b01b596.jpg)\n",
+				"date_published": "2020-11-23T22:14:21+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/23/afternoon-mix.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/23/today-it-hit.html",
+				
+				"content_html": "<p>Today it hit me: this is the first time I&rsquo;ll be working on a show where I won&rsquo;t understand a word!</p>\n",
+				"content_text": "Today it hit me: this is the first time I'll be working on a show where I won't understand a word!\n",
+				"date_published": "2020-11-23T21:33:09+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/23/today-it-hit.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/23/went-to-studio.html",
+				
+				"content_html": "<ul>\n<li>Went to studio for a meeting and got tested for Covid</li>\n<li>Went to the shop to purchase a microwave oven</li>\n<li>Went to the old place, a few more boxes were carried out</li>\n<li>Took tinyMovieStar out for a walk, twice</li>\n<li>Housekeeping duty</li>\n<li>Went to my parents</li>\n</ul>\n\n<p><em>Work</em> starts tomorrow.</p>\n",
+				"content_text": "- Went to studio for a meeting and got tested for Covid\n- Went to the shop to purchase a microwave oven\n- Went to the old place, a few more boxes were carried out\n- Took tinyMovieStar out for a walk, twice\n- Housekeeping duty \n- Went to my parents\n\n_Work_ starts tomorrow.\n",
+				"date_published": "2020-11-23T21:26:57+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/23/went-to-studio.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/23/depressed-city.html",
+				
+				"content_html": "<p>Depressed City</p>\n\n<p>Just so you don’t think it’s all pastel buildings and sunny days&hellip;</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/8d7478ab49.jpg\" alt=\"\" /></p>\n\n<p>Smaller walk, and somber photos.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/12ac4beead.jpg\" alt=\"\" /></p>\n\n<p>It’ll be two weeks before I can take tinyMovieStar on a walk, and I’m already feeling blue.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/e62ebf2ee5.jpg\" alt=\"\" /></p>\n\n<p>Last time this happened it wasn’t good.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/f34f8e34c6.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Depressed City\n\nJust so you don’t think it’s all pastel buildings and sunny days... \n\n![](https://micro.maiquemadeira.com/uploads/2020/8d7478ab49.jpg)\n\nSmaller walk, and somber photos. \n\n![](https://micro.maiquemadeira.com/uploads/2020/12ac4beead.jpg)\n\nIt’ll be two weeks before I can take tinyMovieStar on a walk, and I’m already feeling blue.\n\n![](https://micro.maiquemadeira.com/uploads/2020/e62ebf2ee5.jpg)\n\nLast time this happened it wasn’t good. \n\n![](https://micro.maiquemadeira.com/uploads/2020/f34f8e34c6.jpg)\n",
+				"date_published": "2020-11-23T15:12:08+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/23/depressed-city.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/23/til-a-broken.html",
+				
+				"content_html": "<p>TIL a broken bottle of Teriyaki sauce makes a greater mess than I expected.</p>\n",
+				"content_text": "TIL a broken bottle of Teriyaki sauce makes a greater mess than I expected.\n",
+				"date_published": "2020-11-23T14:30:39+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/23/til-a-broken.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/23/morning-ride.html",
+				
+				"content_html": "<p>Morning Drive</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/6246ede3b6.jpg\" alt=\"\" /></p>\n\n<p>Drove out of town to the studio, enjoying the morning traffic and the view.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/83389ca78c.jpg\" alt=\"\" /></p>\n\n<p>A new testing procedure was implemented. A technician now calls you into a little room to deliver the news. I thought something was wrong. It was not. Scary anyway.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/cf24e2804c.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Morning Drive\n\n![](https://micro.maiquemadeira.com/uploads/2020/6246ede3b6.jpg)\n\nDrove out of town to the studio, enjoying the morning traffic and the view.  \n\n![](https://micro.maiquemadeira.com/uploads/2020/83389ca78c.jpg)\n\nA new testing procedure was implemented. A technician now calls you into a little room to deliver the news. I thought something was wrong. It was not. Scary anyway.\n\n![](https://micro.maiquemadeira.com/uploads/2020/cf24e2804c.jpg)\n",
+				"date_published": "2020-11-23T10:27:40+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/23/morning-ride.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/23/capture-thats-what.html",
+				
+				"content_html": "<p>Capture. That’s what I do, that’s what I’ve done for decades. Capture feelings, capture emotions, capture situations, capture stories, capture news, capture smiles and capture tears, capture hope and defeat. And capture love.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Capture. That’s what I do, that’s what I’ve done for decades. Capture feelings, capture emotions, capture situations, capture stories, capture news, capture smiles and capture tears, capture hope and defeat. And capture love.\n\n✏️ #mbnov\n",
+				"date_published": "2020-11-23T00:07:26+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/23/capture-thats-what.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/22/remake.html",
+				
+				"content_html": "<p>Remake</p>\n\n<p>On the way to the old place today we did a remake of what is one of my favorite movieStar photos.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/8f8a89cc03.jpg\" alt=\"\" /></p>\n\n<p>Autumn, and thousands of kilometers away from the <a href=\"https://micro.maiquemadeira.com/2020/11/11/h.html\">original one</a>, but still having fun.</p>\n",
+				"content_text": "Remake \n\nOn the way to the old place today we did a remake of what is one of my favorite movieStar photos. \n\n![](https://micro.maiquemadeira.com/uploads/2020/8f8a89cc03.jpg)\n\nAutumn, and thousands of kilometers away from the [original one](https://micro.maiquemadeira.com/2020/11/11/h.html), but still having fun. \n",
+				"date_published": "2020-11-22T15:23:10+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/22/remake.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/22/first-test-came.html",
+				
+				"content_html": "<p>First test came out negative, as hoped and expected, and tomorrow I have the next one. Assignment only starts on Tuesday, and I&rsquo;ll have been tested twice by then.</p>\n\n<p>Happy when I see an organization taking this seriously, and these guys leave nothing to chance.</p>\n",
+				"content_text": "First test came out negative, as hoped and expected, and tomorrow I have the next one. Assignment only starts on Tuesday, and I'll have been tested twice by then. \n\nHappy when I see an organization taking this seriously, and these guys leave nothing to chance. \n",
+				"date_published": "2020-11-22T15:17:55+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/22/first-test-came.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/22/final-pieces.html",
+				
+				"content_html": "<p>Final Pieces</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/1aa8330d83.jpg\" alt=\"\" /></p>\n\n<p>Trying to finish the Endless Move, made another trip to the old home, and loaded the car with a few more boxes and bags.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/751126f4e9.jpg\" alt=\"\" /></p>\n\n<p>Still some trinkets to go, but we’re getting there.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/ac1f62c2d8.jpg\" alt=\"\" /></p>\n\n<p>This week I’ll start the Finnish assignment, so I’ll have no time for moving duty.</p>\n",
+				"content_text": "Final Pieces\n\n![](https://micro.maiquemadeira.com/uploads/2020/1aa8330d83.jpg)\n\nTrying to finish the Endless Move, made another trip to the old home, and loaded the car with a few more boxes and bags. \n\n![](https://micro.maiquemadeira.com/uploads/2020/751126f4e9.jpg)\n\nStill some trinkets to go, but we’re getting there. \n\n![](https://micro.maiquemadeira.com/uploads/2020/ac1f62c2d8.jpg)\n\nThis week I’ll start the Finnish assignment, so I’ll have no time for moving duty. \n",
+				"date_published": "2020-11-22T12:50:38+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/22/final-pieces.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/22/again-a-word.html",
+				
+				"content_html": "<p>Again a word that covid made almost irrelevant in our lives, when it was was so common before. Border crossing was a regular event, these days we are stuck in the same city for months.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Again a word that covid made almost irrelevant in our lives, when it was was so common before. Border crossing was a regular event, these days we are stuck in the same city for months.\n\n✏️ #mbnov\n",
+				"date_published": "2020-11-22T07:50:04+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/22/again-a-word.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/21/after-seeing-it.html",
+				
+				"content_html": "<p>After seeing it mentioned here on Micro.blog, <a href=\"https://window-swap.com\">WindowSwap</a> is a site I visit in the evening, when my brain is not able to do anything else. Add a podcast, and I&rsquo;m set for a while.</p>\n",
+				"content_text": "After seeing it mentioned here on Micro.blog, [WindowSwap](https://window-swap.com) is a site I visit in the evening, when my brain is not able to do anything else. Add a podcast, and I'm set for a while.\n",
+				"date_published": "2020-11-21T21:33:59+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/21/after-seeing-it.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/21/after-a-few.html",
+				
+				"content_html": "<p>After a few weeks being bombarded with Apple news, and not watching a single event, I can say that I don&rsquo;t need a new iPhone, but would love one. I need a new computer, but can&rsquo;t afford one right now.</p>\n\n<p>All I want, and need, is a pair of AirPod things! They would come handy.</p>\n",
+				"content_text": "After a few weeks being bombarded with Apple news, and not watching a single event, I can say that I don't need a new iPhone, but would love one. I need a new computer, but can't afford one right now. \n\nAll I want, and need, is a pair of AirPod things! They would come handy.\n",
+				"date_published": "2020-11-21T20:13:30+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/21/after-a-few.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/21/curfew-weekend.html",
+				
+				"content_html": "<p>Curfew Weekend 02</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/163a6cd9b1.jpg\" alt=\"\" /></p>\n\n<p>We’re stuck at home, again, from 1PM today until 5AM tomorrow, and the same the next day.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/86a0cf1e64.jpg\" alt=\"\" /></p>\n\n<p>We went for another coffee run, ordered delivery again for lunch, and are now trying to get a nap. Let’s see how that goes.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/6718b9d8a3.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Curfew Weekend 02\n\n![](https://micro.maiquemadeira.com/uploads/2020/163a6cd9b1.jpg)\n\nWe’re stuck at home, again, from 1PM today until 5AM tomorrow, and the same the next day. \n\n![](https://micro.maiquemadeira.com/uploads/2020/86a0cf1e64.jpg)\n\nWe went for another coffee run, ordered delivery again for lunch, and are now trying to get a nap. Let’s see how that goes. \n\n![](https://micro.maiquemadeira.com/uploads/2020/6718b9d8a3.jpg)\n",
+				"date_published": "2020-11-21T14:25:05+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/21/curfew-weekend.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/21/i-love-the.html",
+				
+				"content_html": "<p>I love the weather around here, but wish we had a proper winter, complete with snow and all the trimmings. We get rain, a bit colder, but nothing else. Would love <em>postcard</em> winter.</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "I love the weather around here, but wish we had a proper winter, complete with snow and all the trimmings. We get rain, a bit colder, but nothing else. Would love _postcard_ winter. \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-21T08:47:17+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/21/i-love-the.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/20/test-result-already.html",
+				
+				"content_html": "<p>Test result already in my Inbox, but it&rsquo;s a password protected pdf. Now waiting for the SMS with said password.</p>\n\n<p>Anyway, took a little over 12 hours since I took it, that was pretty quick.</p>\n",
+				"content_text": "Test result already in my Inbox, but it's a password protected pdf. Now waiting for the SMS with said password. \n\nAnyway, took a little over 12 hours since I took it, that was pretty quick. \n",
+				"date_published": "2020-11-20T23:56:42+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/20/test-result-already.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/20/good-morning.html",
+				
+				"content_html": "<p>Good Morning</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/f50fefe564.jpg\" alt=\"\" /></p>\n\n<p>Ouch!</p>\n",
+				"content_text": "Good Morning \n\n![](https://micro.maiquemadeira.com/uploads/2020/f50fefe564.jpg)\n\nOuch!\n",
+				"date_published": "2020-11-20T10:01:03+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/20/good-morning.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/20/whenever-the-stick.html",
+				
+				"content_html": "<p>Whenever the stick is inserted I slowly fade away&hellip;</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Whenever the stick is inserted I slowly fade away...\n\n✏️ #mbnov\n",
+				"date_published": "2020-11-20T09:46:28+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/20/whenever-the-stick.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/11/19/on-the-underrated.html",
+				
+				"content_html": "<p>On the Underrated List on my iPhone, <a href=\"https://www.photosync-app.com/home.html\">PhotoSync</a>. The app I use to upload photos to Flickr, my <em>de facto</em> archive. Thousands of photos made their way to my account with this little helper. Today another couple hundred uploaded.</p>\n",
+				"content_text": "On the Underrated List on my iPhone, [PhotoSync](https://www.photosync-app.com/home.html). The app I use to upload photos to Flickr, my _de facto_ archive. Thousands of photos made their way to my account with this little helper. Today another couple hundred uploaded.\n",
+				"date_published": "2020-11-19T21:38:13+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/11/19/on-the-underrated.html"
+			},
+			{
 				"id": "http://maique.micro.blog/2020/11/19/lucky.html",
 				
-				"content_html": "<p>Lucky</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/bb86b98aca.jpg\" alt=\"\" /></p>\n\n<p>Got lucky today. Cool light on the living room, and tinyMovieStar owning her nickname.</p>\n",
-				"content_text": "Lucky \n\n![](https://micro.maiquemadeira.com/uploads/2020/bb86b98aca.jpg)\n\nGot lucky today. Cool light on the living room, and tinyMovieStar owning her nickname. \n",
+				"content_html": "<p>Lucky</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/bb86b98aca.jpg\" alt=\"\" /></p>\n\n<p>Got lucky today. Cool light in the living room, and tinyMovieStar owning her nickname.</p>\n",
+				"content_text": "Lucky \n\n![](https://micro.maiquemadeira.com/uploads/2020/bb86b98aca.jpg)\n\nGot lucky today. Cool light in the living room, and tinyMovieStar owning her nickname. \n",
 				"date_published": "2020-11-19T19:26:52+00:00",
-				"url": "https://micro.maiquemadeira.com/2020/11/19/lucky.html",
-				"tags": ["photography"]
+				"url": "https://micro.maiquemadeira.com/2020/11/19/lucky.html"
 			},
 			{
 				"id": "http://maique.micro.blog/2020/11/19/let-the-madness.html",
