@@ -7,6 +7,165 @@
 	"items": [
 		
 			{
+				"id": "http://maique.micro.blog/2021/01/02/day.html",
+				
+				"content_html": "<p>Day02</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/2120c9bb57.jpg\" alt=\"\" /></p>\n\n<p>Still under mandatory curfew from 1PM onwards, we’re getting up and taking care of business before that time.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/e1130698fb.jpg\" alt=\"\" /></p>\n\n<p>Trying to edit a few more photos while tinyMovieStar deals with teething. Not easy, I can’t imagine the pain she’s in.</p>\n",
+				"content_text": "Day02\n\n![](https://micro.maiquemadeira.com/uploads/2021/2120c9bb57.jpg)\n\nStill under mandatory curfew from 1PM onwards, we’re getting up and taking care of business before that time. \n\n![](https://micro.maiquemadeira.com/uploads/2021/e1130698fb.jpg)\n\nTrying to edit a few more photos while tinyMovieStar deals with teething. Not easy, I can’t imagine the pain she’s in. \n",
+				"date_published": "2021-01-02T15:46:59+00:00",
+				"url": "https://micro.maiquemadeira.com/2021/01/02/day.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/01/01/on-the-always.html",
+				
+				"content_html": "<p>On the always exciting work front, I&rsquo;m now looking at the 25000 photos from the nice Finnish folks&hellip; Happy New Year, starting this one today!</p>\n",
+				"content_text": "On the always exciting work front, I'm now looking at the 25000 photos from the nice Finnish folks... Happy New Year, starting this one today! \n",
+				"date_published": "2021-01-01T16:44:16+00:00",
+				"url": "https://micro.maiquemadeira.com/2021/01/01/on-the-always.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/01/01/pgp-gp.html",
+				"title": "PGP ? GPG ? It's Encrypted!",
+				"content_html": "<p>Not that I’ve ever needed to sign, or encrypt, an email. But I wanted to figure out how to go about it.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/0d4fc2f8bc.jpg\" alt=\"\" /></p>\n\n<p>I’ve finally managed to create the keys, get the email client configured, and send my first encrypted email. To myself.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/aac72744e9.png\" alt=\"\" /></p>\n\n<p>I&rsquo;ve started reading about the process a few times before, but gave up at some point, as it felt too complicated. Now, with <a href=\"https://freron.com\">MailMate</a> and yesterday&rsquo;s <a href=\"https://canarymail.io\">Canary Mail</a> <a href=\"https://apps.apple.com/us/app/canary-mail/id1155470386\">for iOS</a> purchase, I felt I needed to sort this, just for the challenge.</p>\n\n<p>Still don&rsquo;t need it working, but wanted to see if I could set it up. While still not too sure about the whole thing, it is working. On macOS AND iOS. Used <a href=\"https://gpgtools.org\">GPGTools</a> for the job.</p>\n\n<p>Need a lot more time to read all the documentation, but I can now send and receive encrypted emails! Yay!</p>\n",
+				"content_text": "Not that I’ve ever needed to sign, or encrypt, an email. But I wanted to figure out how to go about it. \n\n![](https://micro.maiquemadeira.com/uploads/2021/0d4fc2f8bc.jpg)\n\nI’ve finally managed to create the keys, get the email client configured, and send my first encrypted email. To myself.\n\n![](https://micro.maiquemadeira.com/uploads/2021/aac72744e9.png)\n\nI've started reading about the process a few times before, but gave up at some point, as it felt too complicated. Now, with [MailMate](https://freron.com) and yesterday's [Canary Mail](https://canarymail.io) [for iOS](https://apps.apple.com/us/app/canary-mail/id1155470386) purchase, I felt I needed to sort this, just for the challenge.\n\nStill don't need it working, but wanted to see if I could set it up. While still not too sure about the whole thing, it is working. On macOS AND iOS. Used [GPGTools](https://gpgtools.org) for the job.\n\nNeed a lot more time to read all the documentation, but I can now send and receive encrypted emails! Yay!\n\n",
+				"date_published": "2021-01-01T15:45:32+00:00",
+				"url": "https://micro.maiquemadeira.com/2021/01/01/pgp-gp.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/01/01/first-one.html",
+				
+				"content_html": "<p>First One</p>\n\n<p>Heavy rain for a couple of minutes, right before we were about to leave for our January 1st first walk.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/146638dd56.jpg\" alt=\"\" /></p>\n\n<p>Waited a little and the sun finally made it out. And so did we.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/1bbe115db9.jpg\" alt=\"\" /></p>\n\n<p>We’re having lunch with my parents, only time for a shorter walk. But a good one. City is empty.</p>\n",
+				"content_text": "First One\n\nHeavy rain for a couple of minutes, right before we were about to leave for our January 1st first walk. \n\n![](https://micro.maiquemadeira.com/uploads/2021/146638dd56.jpg)\n\nWaited a little and the sun finally made it out. And so did we. \n\n![](https://micro.maiquemadeira.com/uploads/2021/1bbe115db9.jpg)\n\nWe’re having lunch with my parents, only time for a shorter walk. But a good one. City is empty.\n",
+				"date_published": "2021-01-01T11:07:39+00:00",
+				"url": "https://micro.maiquemadeira.com/2021/01/01/first-one.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/31/what-else.html",
+				
+				"content_html": "<p>What Else ?</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/a4f4f0cb31.jpg\" alt=\"\" /></p>\n\n<p>On that <em>other</em> network, the usual Top Nine of the year. Predictable, and delightful.</p>\n\n<p>See you all in a couple of hours, here we come 2021!</p>\n",
+				"content_text": "What Else ?\n\n![](https://micro.maiquemadeira.com/uploads/2020/a4f4f0cb31.jpg)\n\nOn that _other_ network, the usual Top Nine of the year. Predictable, and delightful.\n\nSee you all in a couple of hours, here we come 2021!\n",
+				"date_published": "2020-12-31T23:08:51+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/31/what-else.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/31/not-sure-how.html",
+				
+				"content_html": "<p>Not sure how much time I&rsquo;ll be able to spend here from now on, but wishing you ALL a Happy New Year, and thank you SO MUCH for being so present in my life in 2020! I&rsquo;m grateful for that, more than you know.</p>\n",
+				"content_text": "Not sure how much time I'll be able to spend here from now on, but wishing you ALL a Happy New Year, and thank you SO MUCH for being so present in my life in 2020! I'm grateful for that, more than you know. \n",
+				"date_published": "2020-12-31T18:57:14+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/31/not-sure-how.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/31/heating-is-working.html",
+				
+				"content_html": "<p>Heating is working. Beer is cold. Vietnamese down the street has take out and is open. movieStars are happy. This is turning out to be the best December 31st ever!</p>\n",
+				"content_text": "Heating is working. Beer is cold. Vietnamese down the street has take out and is open. movieStars are happy. This is turning out to be the best December 31st ever! \n",
+				"date_published": "2020-12-31T18:52:10+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/31/heating-is-working.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/30/done-with-the.html",
+				
+				"content_html": "<p>Done with the Italians.<br />\nA total of 2162 edited shots.</p>\n\n<p>On to the Finnish ones!</p>\n",
+				"content_text": "Done with the Italians.  \r\nA total of 2162 edited shots.\r\n\r\nOn to the Finnish ones!\n",
+				"date_published": "2020-12-30T22:28:16+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/30/done-with-the.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/30/home-situation-report.html",
+				
+				"content_html": "<p>Home Situation Report</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/07dc52d28d.jpg\" alt=\"\" /></p>\n\n<p>That’s about it. The whole place looks like this. Our new challenge is walking without setting off one of the toys that calls you, laughs at you, cries at you, jingles at you,&hellip;</p>\n",
+				"content_text": "Home Situation Report \n\n![](https://micro.maiquemadeira.com/uploads/2020/07dc52d28d.jpg)\n\nThat’s about it. The whole place looks like this. Our new challenge is walking without setting off one of the toys that calls you, laughs at you, cries at you, jingles at you,...\n",
+				"date_published": "2020-12-30T11:12:20+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/30/home-situation-report.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/29/question-anyone-has.html",
+				
+				"content_html": "<p>Question: Anyone has any experience with Canary Mail on iOS ? Thoughts ? Somehow I find myself on a Change-Your-Email-Client phase&hellip;</p>\n",
+				"content_text": "Question: Anyone has any experience with Canary Mail on iOS ? Thoughts ? Somehow I find myself on a Change-Your-Email-Client phase... \n",
+				"date_published": "2020-12-29T23:54:47+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/29/question-anyone-has.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/29/nonstop-at-the.html",
+				
+				"content_html": "<p>Non-stop at the computer. My eyes are starting to hurt a bit, but need to take advantage of the fact that movieStar and tinyMovieStar went out for lunch. Editing much faster when I&rsquo;m alone at home!</p>\n",
+				"content_text": "Non-stop at the computer. My eyes are starting to hurt a bit, but need to take advantage of the fact that movieStar and tinyMovieStar went out for lunch. Editing much faster when I'm alone at home!\n",
+				"date_published": "2020-12-29T16:35:44+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/29/nonstop-at-the.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/29/up-the-street.html",
+				
+				"content_html": "<p>Up the street and back</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/bdb5d7507b.jpg\" alt=\"\" /></p>\n\n<p>Today, narrowly escaping the rain, we went to Amoreiras, a local mall, trying to find some items.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/7a9daaa167.jpg\" alt=\"\" /></p>\n\n<p>It was packed with people exchanging Christmas gifts, so we turned around and walked down the street again. Done.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/cec7594e4f.jpg\" alt=\"\" /></p>\n\n<p>Back to editing.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/713d641786.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Up the street and back\n\n![](https://micro.maiquemadeira.com/uploads/2020/bdb5d7507b.jpg)\n\nToday, narrowly escaping the rain, we went to Amoreiras, a local mall, trying to find some items. \n\n![](https://micro.maiquemadeira.com/uploads/2020/7a9daaa167.jpg)\n\nIt was packed with people exchanging Christmas gifts, so we turned around and walked down the street again. Done. \n\n![](https://micro.maiquemadeira.com/uploads/2020/cec7594e4f.jpg)\n\nBack to editing.\n\n![](https://micro.maiquemadeira.com/uploads/2020/713d641786.jpg)\n",
+				"date_published": "2020-12-29T13:59:11+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/29/up-the-street.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/28/ufff.html",
+				
+				"content_html": "<p>Ufff&hellip;</p>\n\n<p>Walked. Washed. Edited. Cooked. Ate. Washed. Edited. Walked. Edited. Cooked. Washed. Ate. Edited. Drank.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/b2d222c440.jpg\" alt=\"\" /></p>\n\n<p>Editing.</p>\n",
+				"content_text": "Ufff...\n\nWalked. Washed. Edited. Cooked. Ate. Washed. Edited. Walked. Edited. Cooked. Washed. Ate. Edited. Drank. \n\n![](https://micro.maiquemadeira.com/uploads/2020/b2d222c440.jpg)\n\nEditing.\n",
+				"date_published": "2020-12-28T22:50:24+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/28/ufff.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/27/it-really-was.html",
+				
+				"content_html": "<p>2020.</p>\n\n<p>It really was an amazingly odd year, I don&rsquo;t even know where to start.</p>\n\n<p>I&rsquo;ll leave the <em>Big Picture</em> stuff to other people. It&rsquo;s been talked about, discussed, analysed, dissected, already, so no need for me to chip in on those subjects.</p>\n\n<p>For me this year was about:</p>\n\n<ul>\n<li>Becoming a parent</li>\n<li>Not working for most of the year</li>\n<li>Living with the in-laws for almost six months</li>\n<li>Moving back to our place, then out of our place and into a rental one</li>\n<li>Micro.blog</li>\n</ul>\n\n<p><strong>Parenthood</strong></p>\n\n<p>It’s amazing. Yes. And tiresome. Yes.</p>\n\n<p>We have no idea what we’re doing, and it seems we knew everything about it <strong>before</strong> becoming parents. How mistaken we were!\nWhen tinyMovieStar was born we felt a new version of us was also just coming to life. We&rsquo;ve grown, together, and it&rsquo;s been amazing. Words fail me, but we are blown away every day by something she does, we &lsquo;Awwww&rsquo; and &lsquo;Ohhhhh&rsquo; every few minutes.</p>\n\n<p>I&rsquo;m also feeling, at once, like the sweeper car on a bicycle ride, and the front car on a F1 race.\nPrepping stuff for movieStar, and cleaning up after her. Never felt so tired, and yet I wake up every day wanting to do it all over again.</p>\n\n<p>Sometimes it&rsquo;s overwhelming, so we try to take it one step at a time. Not thinking too much about the future, how she&rsquo;ll turn out, if we will screw everything up,&hellip;<br />\nSo far, so good. She looks pretty happy, we&rsquo;re also very pleased with the way things are progressing.</p>\n\n<p><strong>Work</strong></p>\n\n<p>As parenthood takes up a great part of the day (all of it!), the cancelled jobs I had due to the pandemic actually ended up being a plus, if I can put it that way.<br />\nI was able to spend most of the year at home, with both girls, and I&rsquo;m sure I wouldn&rsquo;t be able to enjoy this as much if I had a job. The government offered the tiniest of help (I would say ridiculous), but we&rsquo;re fortunate movieStar has a <em>proper</em> job, with decent benefits. Also counting as lucky the generous help my parents provided. I was able to get by thanks to them.</p>\n\n<p>Also first time I missed the old job at the paper. We&rsquo;d grown accustomed to being on the road a lot since I quit, and spending a few months a year on the island. We missed both of those and, as most people around the world, are a bit tired of being stuck in one place.</p>\n\n<p>After decades of covering news, and getting out of that business, I failed to miss it until now. Being at home while the biggest story of the decade unfolded outside made me miss the old days, of being on top of things. With no island and no travel to keep me entertained, it was bound to happen.</p>\n\n<p>The end of the year turned out to be a surprise, a lot of work. Pros and cons but, by now, I&rsquo;m pretty grateful it happened.</p>\n\n<p><strong>Living arrangements</strong></p>\n\n<p>We spent almost half the year living with movieStar&rsquo;s parents, who were kind enough to offer us their home. When the pandemic struck we feared we&rsquo;d be overwhelmed by it and the new baby, so that came as a very welcome offer. We had a support team for as long as we needed, and it was a blessing.</p>\n\n<p>When we felt we could handle things on our own we moved back into the city, but soon realised our home would be small to house the three of us. movieStar started looking for a place that would be suitable, and she found it! I expected to stay at our place for a little longer, but babies do take up a lot of space. We moved.</p>\n\n<p><strong>Micro.blog</strong></p>\n\n<p>When we moved out of the city, before tinyMovieStar was born, I looked for a new home online, and by god I found it! It&rsquo;s been a while since I&rsquo;ve been so happy with the internet. The community never ceases to amaze me, it&rsquo;s a wonderful place, one I hope will last.\nI&rsquo;ve had great conversations, found amazing shows to watch, discovered wonderful apps, and, above all that, the best group of people one can find online.</p>\n\n<p>All in all, for me, it was a great year. I know everyone is expecting 2021 to be the good one, the one that will get us over the mess that 2020 was, but I&rsquo;m pretty pleased with how it turned out.</p>\n",
+				"content_text": "2020.\n\nIt really was an amazingly odd year, I don't even know where to start.\n\nI'll leave the _Big Picture_ stuff to other people. It's been talked about, discussed, analysed, dissected, already, so no need for me to chip in on those subjects.\n\nFor me this year was about:\n\n- Becoming a parent\n- Not working for most of the year\n- Living with the in-laws for almost six months\n- Moving back to our place, then out of our place and into a rental one\n- Micro.blog\n\n**Parenthood**\n\nIt’s amazing. Yes. And tiresome. Yes. \n\nWe have no idea what we’re doing, and it seems we knew everything about it **before** becoming parents. How mistaken we were! \nWhen tinyMovieStar was born we felt a new version of us was also just coming to life. We've grown, together, and it's been amazing. Words fail me, but we are blown away every day by something she does, we 'Awwww' and 'Ohhhhh' every few minutes. \n\nI'm also feeling, at once, like the sweeper car on a bicycle ride, and the front car on a F1 race.\nPrepping stuff for movieStar, and cleaning up after her. Never felt so tired, and yet I wake up every day wanting to do it all over again.\n\nSometimes it's overwhelming, so we try to take it one step at a time. Not thinking too much about the future, how she'll turn out, if we will screw everything up,...  \nSo far, so good. She looks pretty happy, we're also very pleased with the way things are progressing.\n\n**Work**\n\nAs parenthood takes up a great part of the day (all of it!), the cancelled jobs I had due to the pandemic actually ended up being a plus, if I can put it that way.  \nI was able to spend most of the year at home, with both girls, and I'm sure I wouldn't be able to enjoy this as much if I had a job. The government offered the tiniest of help (I would say ridiculous), but we're fortunate movieStar has a _proper_ job, with decent benefits. Also counting as lucky the generous help my parents provided. I was able to get by thanks to them. \n\nAlso first time I missed the old job at the paper. We'd grown accustomed to being on the road a lot since I quit, and spending a few months a year on the island. We missed both of those and, as most people around the world, are a bit tired of being stuck in one place. \n\nAfter decades of covering news, and getting out of that business, I failed to miss it until now. Being at home while the biggest story of the decade unfolded outside made me miss the old days, of being on top of things. With no island and no travel to keep me entertained, it was bound to happen. \n\nThe end of the year turned out to be a surprise, a lot of work. Pros and cons but, by now, I'm pretty grateful it happened.\n\n**Living arrangements**\n\nWe spent almost half the year living with movieStar's parents, who were kind enough to offer us their home. When the pandemic struck we feared we'd be overwhelmed by it and the new baby, so that came as a very welcome offer. We had a support team for as long as we needed, and it was a blessing. \n\nWhen we felt we could handle things on our own we moved back into the city, but soon realised our home would be small to house the three of us. movieStar started looking for a place that would be suitable, and she found it! I expected to stay at our place for a little longer, but babies do take up a lot of space. We moved.\n\n**Micro.blog**\n\nWhen we moved out of the city, before tinyMovieStar was born, I looked for a new home online, and by god I found it! It's been a while since I've been so happy with the internet. The community never ceases to amaze me, it's a wonderful place, one I hope will last.\nI've had great conversations, found amazing shows to watch, discovered wonderful apps, and, above all that, the best group of people one can find online.\n\nAll in all, for me, it was a great year. I know everyone is expecting 2021 to be the good one, the one that will get us over the mess that 2020 was, but I'm pretty pleased with how it turned out.\n",
+				"date_published": "2020-12-27T22:00:18+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/27/it-really-was.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/27/little-house-on.html",
+				
+				"content_html": "<p>Little House On The Prairie</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/d9e10afe6b.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Little House On The Prairie \n\n![](https://micro.maiquemadeira.com/uploads/2020/d9e10afe6b.jpg)\n",
+				"date_published": "2020-12-27T13:57:59+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/27/little-house-on.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/27/no-pressure-really.html",
+				
+				"content_html": "<p>No Pressure, Really</p>\n\n<p>I’m not feeling the Italians breathing down my neck, no. But&hellip; Whenever I leave the house&hellip;</p>\n\n<p>50 meters to the left:</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/1e64da3572.jpg\" alt=\"\" /></p>\n\n<p>50 meters to the right:</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2020/8c6da5d05b.jpg\" alt=\"\" /></p>\n\n<p>Just saying&hellip;</p>\n",
+				"content_text": "No Pressure, Really\n\nI’m not feeling the Italians breathing down my neck, no. But... Whenever I leave the house...\n\n50 meters to the left:\n\n![](https://micro.maiquemadeira.com/uploads/2020/1e64da3572.jpg)\n\n50 meters to the right:\n\n![](https://micro.maiquemadeira.com/uploads/2020/8c6da5d05b.jpg)\n\nJust saying...\n",
+				"date_published": "2020-12-27T13:55:50+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/27/no-pressure-really.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/26/its-past-pm.html",
+				
+				"content_html": "<p>It&rsquo;s past 5.30PM and we just realized it&rsquo;s Saturday!</p>\n\n<p>We wanted to get some quick shopping from the supermarket and&hellip; lockdown! Darn, it really felt like Monday, albeit a slow one.</p>\n",
+				"content_text": "It's past 5.30PM and we just realized it's Saturday!\n\nWe wanted to get some quick shopping from the supermarket and... lockdown! Darn, it really felt like Monday, albeit a slow one.\n",
+				"date_published": "2020-12-26T17:33:54+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/26/its-past-pm.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/26/a-favorite-for.html",
+				
+				"content_html": "<p>A favorite for a few years now, whenever I need to get work done editing photos, and not think about picking music for half an hour. And then repeat.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=g3AMQCf4lj4\">DARKSIDE Boiler Room NYC Live Set</a></p>\n",
+				"content_text": "A favorite for a few years now, whenever I need to get work done editing photos, and not think about picking music for half an hour. And then repeat. \n\n[DARKSIDE Boiler Room NYC Live Set](https://www.youtube.com/watch?v=g3AMQCf4lj4)\n",
+				"date_published": "2020-12-26T16:32:00+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/26/a-favorite-for.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2020/12/26/i-didnt-need.html",
+				
+				"content_html": "<p>I didn&rsquo;t need any more distractions from the endless photos still waiting to be looked at, but <a href=\"https://freron.com\">MailMate</a> is a <strong>HUGE</strong> rabbit hole, with all the tinkering available.</p>\n",
+				"content_text": "I didn't need any more distractions from the endless photos still waiting to be looked at, but [MailMate](https://freron.com) is a **HUGE** rabbit hole, with all the tinkering available.\n",
+				"date_published": "2020-12-26T15:47:52+00:00",
+				"url": "https://micro.maiquemadeira.com/2020/12/26/i-didnt-need.html"
+			},
+			{
 				"id": "http://maique.micro.blog/2020/12/26/christmas-is-now.html",
 				
 				"content_html": "<p>Christmas is now behind us, and that means one thing: Ciao, ragazzi! Ciao, Lightroom! 😭</p>\n",
