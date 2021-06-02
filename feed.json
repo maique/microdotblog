@@ -7,6 +7,259 @@
 	"items": [
 		
 			{
+				"id": "http://maique.micro.blog/2021/06/02/im-up-but.html",
+				
+				"content_html": "<p>I&rsquo;m up.</p>\n\n<p>But not entirely.</p>\n\n<p>Rough day ahead.</p>\n",
+				"content_text": "I'm up. \n\nBut not entirely. \n\nRough day ahead. \n",
+				"date_published": "2021-06-02T08:56:40+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/06/02/im-up-but.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/06/01/i-guess-no.html",
+				
+				"content_html": "<p>I guess no one is sleeping at this house today. That&rsquo;s what tinyMovieStar told us.</p>\n",
+				"content_text": "I guess no one is sleeping at this house today. That's what tinyMovieStar told us. \n",
+				"date_published": "2021-06-01T22:06:50+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/06/01/i-guess-no.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/06/01/ongoing-still-on.html",
+				
+				"content_html": "<p>Ongoing</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/c43e589e73.jpg\" alt=\"\" /></p>\n\n<p>Still on Jacaranda <em>duty</em>, they do look amazing. The street is, by now, covered with flowers.</p>\n",
+				"content_text": "Ongoing \n\n![](https://micro.maiquemadeira.com/uploads/2021/c43e589e73.jpg)\n\nStill on Jacaranda _duty_, they do look amazing. The street is, by now, covered with flowers.\n\n",
+				"date_published": "2021-06-01T16:12:21+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/06/01/ongoing-still-on.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/06/01/my-wrist-is.html",
+				
+				"content_html": "<p>My wrist is screaming <strong>Carpal Tunnel Syndrome</strong> at me!</p>\n\n<p>Why do I have to shoot this much, when I know I&rsquo;ll regret it when the time comes to pick and edit??</p>\n",
+				"content_text": "My wrist is screaming **Carpal Tunnel Syndrome** at me!\n\nWhy do I have to shoot this much, when I know I'll regret it when the time comes to pick and edit??\n",
+				"date_published": "2021-06-01T14:46:01+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/06/01/my-wrist-is.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/06/01/change-their-names.html",
+				
+				"content_html": "<blockquote>\n<p>change their names, ate thousands of dollars’ worth of sushi, and then changed their names back.</p>\n</blockquote>\n\n<p>🔗 <a href=\"https://restofworld.org/2021/taiwans-punishing-work-culture-is-forcing-young-people-to-game-the-system/\">Taiwan’s punishing work culture is forcing young people to game the system - Rest of World</a></p>\n",
+				"content_text": "> change their names, ate thousands of dollars’ worth of sushi, and then changed their names back.\r\n\r\n🔗 [Taiwan’s punishing work culture is forcing young people to game the system - Rest of World](https://restofworld.org/2021/taiwans-punishing-work-culture-is-forcing-young-people-to-game-the-system/)\n",
+				"date_published": "2021-06-01T10:00:39+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/06/01/change-their-names.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/31/the-view-nice.html",
+				
+				"content_html": "<p>The View</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/2d76cb36d1.jpg\" alt=\"\" /></p>\n\n<p>Nice view from yesterday, even with the <em>poorly</em> parked car getting in the way.</p>\n",
+				"content_text": "The View\n\n![](https://micro.maiquemadeira.com/uploads/2021/2d76cb36d1.jpg)\n\nNice view from yesterday, even with the _poorly_ parked car getting in the way. \n\n",
+				"date_published": "2021-05-31T09:20:20+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/31/the-view-nice.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/30/the-pink-chair.html",
+				
+				"content_html": "<p>The Pink Chair</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/abde79e665.jpg\" alt=\"\" /></p>\n\n<p>In-laws went to the countryside last week and got tinyMovieStar the most amazing chair! It’s the sweetest thing, typical from that area of the country.</p>\n\n<p>Guess who wants a full sized one now?</p>\n",
+				"content_text": "The Pink Chair\n\n![](https://micro.maiquemadeira.com/uploads/2021/abde79e665.jpg)\n\nIn-laws went to the countryside last week and got tinyMovieStar the most amazing chair! It’s the sweetest thing, typical from that area of the country. \n\nGuess who wants a full sized one now?\n\n",
+				"date_published": "2021-05-30T21:58:22+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/30/the-pink-chair.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/30/vaccine-appointment-confirmed.html",
+				
+				"content_html": "<p>Vaccine appointment confirmed, getting it on the 7th. Yay!</p>\n\n<p>💉🦠</p>\n",
+				"content_text": "Vaccine appointment confirmed, getting it on the 7th. Yay!\n\n💉🦠\n",
+				"date_published": "2021-05-30T21:53:05+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/30/vaccine-appointment-confirmed.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/30/status-report-reading.html",
+				
+				"content_html": "<p>Status Report</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/93222fa72c.jpg\" alt=\"\" /></p>\n\n<p>Reading the Micro.blog timeline, lying down.</p>\n",
+				"content_text": "Status Report\n\n![](https://micro.maiquemadeira.com/uploads/2021/93222fa72c.jpg)\n\nReading the Micro.blog timeline, lying down. \n\n",
+				"date_published": "2021-05-30T15:25:28+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/30/status-report-reading.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/30/old-school-long.html",
+				
+				"content_html": "<p>Old School</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/9a36abbcd2.jpg\" alt=\"\" /></p>\n\n<p>Long time since I’ve seen one of these.</p>\n",
+				"content_text": "Old School\n\n![](https://micro.maiquemadeira.com/uploads/2021/9a36abbcd2.jpg)\n\nLong time since I’ve seen one of these.\n\n",
+				"date_published": "2021-05-30T12:39:50+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/30/old-school-long.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/30/plan-for-today.html",
+				
+				"content_html": "<p>Plan for today: going out of town. Not far, not for too long, but going.</p>\n",
+				"content_text": "Plan for today: going out of town. Not far, not for too long, but going. \n",
+				"date_published": "2021-05-30T10:19:11+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/30/plan-for-today.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/30/as-long-as.html",
+				
+				"content_html": "<blockquote>\n<p>As long as the pandemic persists, we will all need to be flexible and solicitous of those around us, and we will all need to wear a mask in certain situations.</p>\n</blockquote>\n\n<p>🔗 <a href=\"https://www.theatlantic.com/health/archive/2021/05/mask-mandates-will-come-and-go-and-come-again/619038/?utm_term=2021-05-29T20%3A51%3A36&amp;utm_source=twitter&amp;utm_content=edit-promo&amp;utm_medium=social&amp;utm_campaign=the-atlantic\">Mask Mandates Will Come and Go and Come Again</a></p>\n",
+				"content_text": "> As long as the pandemic persists, we will all need to be flexible and solicitous of those around us, and we will all need to wear a mask in certain situations.\r\n\r\n🔗 [Mask Mandates Will Come and Go and Come Again](https://www.theatlantic.com/health/archive/2021/05/mask-mandates-will-come-and-go-and-come-again/619038/?utm_term=2021-05-29T20%3A51%3A36&utm_source=twitter&utm_content=edit-promo&utm_medium=social&utm_campaign=the-atlantic)\n",
+				"date_published": "2021-05-30T00:42:12+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/30/as-long-as.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/29/trying-to-watch.html",
+				
+				"content_html": "<p>Trying to watch an episode of Bourdain&rsquo;s Parts Unknown series, and it&rsquo;s impossible to find it on the streaming platforms. Looked on Netflix, Amazon, HBO Portugal, and even YouTube. Couldn&rsquo;t find it. What is a person supposed to do? 🏴‍☠️?</p>\n",
+				"content_text": "Trying to watch an episode of Bourdain's Parts Unknown series, and it's impossible to find it on the streaming platforms. Looked on Netflix, Amazon, HBO Portugal, and even YouTube. Couldn't find it. What is a person supposed to do? 🏴‍☠️?\n",
+				"date_published": "2021-05-29T21:04:58+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/29/trying-to-watch.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/29/morning-light-restauradores.html",
+				
+				"content_html": "<p>Morning Light</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/40b51b488b.jpg\" alt=\"\" /></p>\n\n<p>Restauradores Square looks great in the morning.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/7502f8bdb8.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Morning Light\n\n![](https://micro.maiquemadeira.com/uploads/2021/40b51b488b.jpg)\n\nRestauradores Square looks great in the morning. \n\n![](https://micro.maiquemadeira.com/uploads/2021/7502f8bdb8.jpg)\n\n\n",
+				"date_published": "2021-05-29T16:07:39+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/29/morning-light-restauradores.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/29/testing-something-at.html",
+				
+				"content_html": "<p>Testing something at <a href=\"https://micro.maiquemadeira.com/lab\">theLab</a>.</p>\n\n<p>Not sure what to do with it at the moment, but think Raindrop embeds could come in handy for something.</p>\n",
+				"content_text": "Testing something at [theLab](https://micro.maiquemadeira.com/lab).\n\nNot sure what to do with it at the moment, but think Raindrop embeds could come in handy for something.\n",
+				"date_published": "2021-05-29T15:34:54+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/29/testing-something-at.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/29/that-is-one.html",
+				
+				"content_html": "<blockquote>\n<p>That is one more reason why Belarus’s devilish gambit should lead to stiff punishment: The law is little protection, so if norms go, there won’t be anything left.</p>\n</blockquote>\n\n<p>🔗 <a href=\"https://outline.com/ASL383\">How the Belarus-Ryanair Incident Changed the World</a></p>\n",
+				"content_text": "> That is one more reason why Belarus’s devilish gambit should lead to stiff punishment: The law is little protection, so if norms go, there won’t be anything left.\r\n\r\n🔗 [How the Belarus-Ryanair Incident Changed the World](https://outline.com/ASL383)\n",
+				"date_published": "2021-05-29T09:36:33+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/29/that-is-one.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/28/the-weather-is.html",
+				
+				"content_html": "<p>The weather is great.</p>\n\n<p>The kind where you go-to-the-square-and-have-beers-with-friends-and-come-back-home-close-to-9PM-and-leave-the-windows-open weather.</p>\n\n<p>Feels awesome.</p>\n",
+				"content_text": "The weather is great.  \n\nThe kind where you go-to-the-square-and-have-beers-with-friends-and-come-back-home-close-to-9PM-and-leave-the-windows-open weather.\n\nFeels awesome.\n",
+				"date_published": "2021-05-28T20:36:27+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/28/the-weather-is.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/28/its-rare-to.html",
+				
+				"content_html": "<blockquote>\n<p>It’s rare to go one day without a mass shooting in America.</p>\n</blockquote>\n\n<p>🔗 <a href=\"https://www.theguardian.com/us-news/ng-interactive/2021/may/27/us-mass-shootings-database\">Every mass shooting in the US – a visual database | The Guardian</a></p>\n\n<p>It&rsquo;s a sad, LONG, page 😢</p>\n",
+				"content_text": "> It’s rare to go one day without a mass shooting in America.\n\n🔗 [Every mass shooting in the US – a visual database | The Guardian](https://www.theguardian.com/us-news/ng-interactive/2021/may/27/us-mass-shootings-database)\n\nIt's a sad, LONG, page 😢\n",
+				"date_published": "2021-05-28T09:29:53+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/28/its-rare-to.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/28/here-we-go.html",
+				
+				"content_html": "<p>Here we go again&hellip;</p>\n\n<p><a href=\"https://getbigmail.com/\">Big Mail - Upgrade your inbox</a></p>\n\n<p>🤣😂</p>\n",
+				"content_text": "Here we go again... \n\n[Big Mail - Upgrade your inbox](https://getbigmail.com/)\n\n🤣😂\n",
+				"date_published": "2021-05-28T09:11:11+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/28/here-we-go.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/28/reading-session-i.html",
+				
+				"content_html": "<p>Reading Session</p>\n\n<p>I don’t think she was really into the books yesterday, just enjoying her <em>sofa</em>.</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/d7472b20de.jpg\" alt=\"\" /></p>\n\n<p>We were both too tired, but none willing to let go. Plenty of time to sleep later!</p>\n",
+				"content_text": "Reading Session\n\nI don’t think she was really into the books yesterday, just enjoying her _sofa_. \n\n![](https://micro.maiquemadeira.com/uploads/2021/d7472b20de.jpg)\n\nWe were both too tired, but none willing to let go. Plenty of time to sleep later!\n\n",
+				"date_published": "2021-05-28T08:25:25+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/28/reading-session-i.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/28/xtime-despite-all.html",
+				
+				"content_html": "<p>xTime</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/43174fc835.jpg\" alt=\"\" /></p>\n\n<p>Despite all the craziness of the past two days I did manage to add two photos to one of the longest running silly projects I’m shooting, <a href=\"https://maiquemadeira.com/xmarksthespot\">xMarksTheSpot</a> (small sample).</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/a1b1e2b606.jpg\" alt=\"\" /></p>\n\n<p>Two literal Xs, but there you go&hellip;</p>\n\n<p>One is even a doubleX!</p>\n",
+				"content_text": "xTime\n\n![](https://micro.maiquemadeira.com/uploads/2021/43174fc835.jpg)\n\nDespite all the craziness of the past two days I did manage to add two photos to one of the longest running silly projects I’m shooting, [xMarksTheSpot](https://maiquemadeira.com/xmarksthespot) (small sample).\n\n![](https://micro.maiquemadeira.com/uploads/2021/a1b1e2b606.jpg)\n\nTwo literal Xs, but there you go... \n\nOne is even a doubleX!\n\n",
+				"date_published": "2021-05-28T00:25:01+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/28/xtime-despite-all.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/27/cherry-on-todays.html",
+				
+				"content_html": "<p>Cherry on today&rsquo;s cake: vaccine appointments for my age group are now open online, booked for the 7th of June. A week and a couple of days from now I&rsquo;ll be getting my first shot. Yay!</p>\n\n<p>💉🦠</p>\n",
+				"content_text": "Cherry on today's cake: vaccine appointments for my age group are now open online, booked for the 7th of June. A week and a couple of days from now I'll be getting my first shot. Yay! \n\n💉🦠\n",
+				"date_published": "2021-05-27T22:00:26+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/27/cherry-on-todays.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/27/back-home-after.html",
+				
+				"content_html": "<p>Back home, after another grueling day at the <em>office</em>.</p>\n\n<p>tinyMovieStar is WAY past her bedtime, extra tired, but refuses to go to sleep now that papa is back!</p>\n\n<p>That&rsquo;s what we get after a year of staying at home: away for a few hours, and we miss each other SOOOO much.</p>\n",
+				"content_text": "Back home, after another grueling day at the _office_. \n\ntinyMovieStar is WAY past her bedtime, extra tired, but refuses to go to sleep now that papa is back! \n\nThat's what we get after a year of staying at home: away for a few hours, and we miss each other SOOOO much.\n",
+				"date_published": "2021-05-27T21:18:20+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/27/back-home-after.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/27/learned-my-lesson.html",
+				
+				"content_html": "<p>Learned my lesson yesterday. Today I had two HUGE doughnuts as dessert! Ready for a full afternoon shower of shutter pressing.</p>\n",
+				"content_text": "Learned my lesson yesterday. Today I had two HUGE doughnuts as dessert! Ready for a full afternoon shower of shutter pressing. \n",
+				"date_published": "2021-05-27T14:45:09+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/27/learned-my-lesson.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/26/pm-in-bed.html",
+				
+				"content_html": "<p>9.30PM, in bed.</p>\n\n<p>That&rsquo;s life as a tired, old, person.</p>\n\n<p>Let&rsquo;s see how long it takes until I&rsquo;m asleep.</p>\n",
+				"content_text": "9.30PM, in bed. \n\nThat's life as a tired, old, person. \n\nLet's see how long it takes until I'm asleep. \n",
+				"date_published": "2021-05-26T21:35:34+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/26/pm-in-bed.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/26/who-else-updates.html",
+				
+				"content_html": "<p>Who else updates apps 24 hours after a feature was talked about?</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/a101d6a450.png\" alt=\"\" /></p>\n\n<p>NO ONE, that&rsquo;s who! <a href=\"https://micro.blog/Vincent\">@Vincent</a> is the only one! ❤️</p>\n",
+				"content_text": "Who else updates apps 24 hours after a feature was talked about?\n\n![](https://micro.maiquemadeira.com/uploads/2021/a101d6a450.png)\n\nNO ONE, that's who! [@Vincent](https://micro.blog/Vincent) is the only one! ❤️\n",
+				"date_published": "2021-05-26T21:12:40+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/26/who-else-updates.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/26/day-one-balance.html",
+				
+				"content_html": "<p>Day One balance: over 128GB! I&rsquo;m dead!</p>\n\n<p>Picked up an e-motorcycle to get back home, it had a flat tire, and I just didn&rsquo;t care. Rode the thing all the way home, too tired to look for another one.</p>\n",
+				"content_text": "Day One balance: over 128GB! I'm dead! \n\nPicked up an e-motorcycle to get back home, it had a flat tire, and I just didn't care. Rode the thing all the way home, too tired to look for another one.\n",
+				"date_published": "2021-05-26T18:58:02+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/26/day-one-balance.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/26/stress-level-today.html",
+				
+				"content_html": "<p>Stress level today is a little over the usual amount. movieStar stuck at home taking care of the tiny one, I&rsquo;m off the whole day, stuck at that venue, unable to help.</p>\n\n<p>At the venue: over 700 people. Seven. Hundred.</p>\n\n<p>Yep.</p>\n",
+				"content_text": "Stress level today is a little over the usual amount. movieStar stuck at home taking care of the tiny one, I'm off the whole day, stuck at that venue, unable to help. \n\nAt the venue: over 700 people. Seven. Hundred. \n\nYep. \n",
+				"date_published": "2021-05-26T08:28:32+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/26/stress-level-today.html"
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/26/its-beautiful-outside.html",
+				
+				"content_html": "<p>It’s Beautiful Outside</p>\n\n<p><img src=\"https://micro.maiquemadeira.com/uploads/2021/9d4278d041.jpg\" alt=\"\" /></p>\n\n<p>I’ll be spending most of the day stuck inside a concert hall, one where I haven’t been in a while, one that’s been closed since the beginning of the pandemic.</p>\n\n<p>I just remembered I probably should have gotten a set of ear plugs.</p>\n",
+				"content_text": "It’s Beautiful Outside \n\n![](https://micro.maiquemadeira.com/uploads/2021/9d4278d041.jpg)\n\nI’ll be spending most of the day stuck inside a concert hall, one where I haven’t been in a while, one that’s been closed since the beginning of the pandemic. \n\nI just remembered I probably should have gotten a set of ear plugs. \n\n",
+				"date_published": "2021-05-26T07:39:07+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/26/its-beautiful-outside.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://maique.micro.blog/2021/05/26/minutes-to-wakeup.html",
+				
+				"content_html": "<p>30 minutes to wake-up time for me, it&rsquo;s time to quit trying to go back to sleep and just deal with it.</p>\n\n<p>Extra coffee will be needed for all of us, thank you.</p>\n\n<p>☕️ ☕️ ☕️</p>\n",
+				"content_text": "30 minutes to wake-up time for me, it's time to quit trying to go back to sleep and just deal with it. \n\nExtra coffee will be needed for all of us, thank you. \n\n☕️ ☕️ ☕️ \n",
+				"date_published": "2021-05-26T06:56:42+01:00",
+				"url": "https://micro.maiquemadeira.com/2021/05/26/minutes-to-wakeup.html"
+			},
+			{
 				"id": "http://maique.micro.blog/2021/05/26/am-temperature-almost.html",
 				
 				"content_html": "<p>05.30AM. Temperature almost normal, but she woke up crying. She HATES having her temperature taken too!</p>\n",
